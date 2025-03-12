@@ -1,0 +1,1883 @@
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\SIADEP.dll.config
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\SIADEP.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\SIADEP.pdb
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\Aspose.Email.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\Aspose.Words.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\Aspose.Words.Pdf2Word.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\BouncyCastle.Crypto.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\DevExpress.Charts.v21.2.Core.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\DevExpress.CodeParser.v21.2.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\DevExpress.Data.Desktop.v21.2.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\DevExpress.Data.v21.2.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\DevExpress.DataAccess.v21.2.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\DevExpress.DataAccess.v21.2.UI.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\DevExpress.Office.v21.2.Core.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\DevExpress.Pdf.v21.2.Core.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\DevExpress.Pdf.v21.2.Drawing.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\DevExpress.PivotGrid.v21.2.Core.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\DevExpress.Printing.v21.2.Core.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\DevExpress.RichEdit.v21.2.Core.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\DevExpress.RichEdit.v21.2.Export.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\DevExpress.Sparkline.v21.2.Core.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\DevExpress.Utils.v21.2.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\DevExpress.Utils.v21.2.UI.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\DevExpress.Web.ASPxScheduler.v21.2.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\DevExpress.Web.ASPxThemes.v21.2.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\DevExpress.Web.Mvc5.v21.2.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\DevExpress.Web.Resources.v21.2.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\DevExpress.Web.v21.2.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\DevExpress.Xpo.v21.2.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\DevExpress.XtraBars.v21.2.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\DevExpress.XtraCharts.v21.2.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\DevExpress.XtraCharts.v21.2.Extensions.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\DevExpress.XtraCharts.v21.2.Wizard.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\DevExpress.XtraEditors.v21.2.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\DevExpress.XtraGauges.v21.2.Core.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\DevExpress.XtraGrid.v21.2.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\DevExpress.XtraLayout.v21.2.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\DevExpress.XtraNavBar.v21.2.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\DevExpress.XtraPivotGrid.v21.2.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\DevExpress.XtraPrinting.v21.2.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\DevExpress.XtraReports.v21.2.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\DevExpress.XtraReports.v21.2.Extensions.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\DevExpress.XtraReports.v21.2.Web.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\DevExpress.XtraReports.v21.2.Web.WebForms.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\DevExpress.XtraRichEdit.v21.2.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\DevExpress.XtraScheduler.v21.2.Core.Desktop.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\DevExpress.XtraScheduler.v21.2.Core.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\DevExpress.XtraTreeList.v21.2.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\DevExpress.XtraVerticalGrid.v21.2.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\EntityFramework.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\EntityFramework.SqlServer.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\Glimpse.Core.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\GoogleRecaptcha.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\hbehr.recaptcha.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\itextsharp.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\itextsharp.xmlworker.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\Microsoft.Owin.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\Microsoft.Owin.Security.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\Newtonsoft.Json.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\Newtonsoft.Json.Glimpse.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\Newtonsoft.Json.Schema.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\Owin.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\SendGrid.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\StarkbankEcdsa.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\System.Web.Helpers.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\System.Web.Mvc.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\System.Web.Razor.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\System.Web.WebPages.Deployment.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\System.Web.WebPages.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\System.Web.WebPages.Razor.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\DevExpress.XtraDiagram.v21.2.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\DevExpress.Diagram.v21.2.Core.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\DevExpress.Web.ASPxHtmlEditor.v21.2.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\DevExpress.Web.ASPxDiagram.v21.2.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\DevExpress.XtraCharts.v21.2.Web.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\DevExpress.Web.ASPxGantt.v21.2.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\DevExpress.Web.ASPxTreeList.v21.2.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\DevExpress.Web.ASPxSpellChecker.v21.2.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\DevExpress.Web.ASPxPivotGrid.v21.2.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\DevExpress.Web.ASPxRichEdit.v21.2.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\DevExpress.SpellChecker.v21.2.Core.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\DevExpress.Web.ASPxSpreadsheet.v21.2.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\DevExpress.Spreadsheet.v21.2.Core.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\DevExpress.DataVisualization.v21.2.Core.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\DevExpress.Images.v21.2.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\DevExpress.XtraTreeMap.v21.2.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\DevExpress.TreeMap.v21.2.Core.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\Aspose.Email.xml
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\Aspose.Words.xml
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\DevExpress.Charts.v21.2.Core.xml
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\DevExpress.Data.Desktop.v21.2.xml
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\DevExpress.DataAccess.v21.2.xml
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\DevExpress.DataAccess.v21.2.UI.xml
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\DevExpress.Office.v21.2.Core.xml
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\DevExpress.Pdf.v21.2.Core.xml
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\DevExpress.Pdf.v21.2.Drawing.xml
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\DevExpress.PivotGrid.v21.2.Core.xml
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\DevExpress.Sparkline.v21.2.Core.xml
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\DevExpress.Utils.v21.2.xml
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\DevExpress.Utils.v21.2.UI.xml
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\DevExpress.Web.Mvc5.v21.2.xml
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\DevExpress.Xpo.v21.2.xml
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\DevExpress.XtraBars.v21.2.xml
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\DevExpress.XtraCharts.v21.2.xml
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\DevExpress.XtraCharts.v21.2.Wizard.xml
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\DevExpress.XtraEditors.v21.2.xml
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\DevExpress.XtraGauges.v21.2.Core.xml
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\DevExpress.XtraGrid.v21.2.xml
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\DevExpress.XtraLayout.v21.2.xml
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\DevExpress.XtraNavBar.v21.2.xml
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\DevExpress.XtraPivotGrid.v21.2.xml
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\DevExpress.XtraPrinting.v21.2.xml
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\DevExpress.XtraReports.v21.2.xml
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\DevExpress.XtraReports.v21.2.Extensions.xml
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\DevExpress.XtraReports.v21.2.Web.xml
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\DevExpress.XtraReports.v21.2.Web.WebForms.xml
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\DevExpress.XtraRichEdit.v21.2.xml
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\DevExpress.XtraTreeList.v21.2.xml
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\DevExpress.XtraVerticalGrid.v21.2.xml
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\EntityFramework.xml
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\EntityFramework.SqlServer.xml
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\itextsharp.xml
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\Microsoft.Owin.xml
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\Microsoft.Owin.Security.xml
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\Newtonsoft.Json.xml
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\Newtonsoft.Json.Glimpse.xml
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\Newtonsoft.Json.Schema.xml
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\SendGrid.pdb
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\SendGrid.xml
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\System.Web.Helpers.xml
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\System.Web.Mvc.xml
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\System.Web.Razor.xml
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\System.Web.WebPages.xml
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\System.Web.WebPages.Deployment.xml
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\System.Web.WebPages.Razor.xml
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\DevExpress.Data.v21.2.xml
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\DevExpress.RichEdit.v21.2.Core.xml
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\DevExpress.Printing.v21.2.Core.xml
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\DevExpress.Web.v21.2.xml
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\DevExpress.XtraScheduler.v21.2.Core.xml
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\DevExpress.XtraScheduler.v21.2.Core.Desktop.xml
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\DevExpress.Web.ASPxScheduler.v21.2.xml
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\DevExpress.XtraDiagram.v21.2.xml
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\DevExpress.Diagram.v21.2.Core.xml
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\DevExpress.Web.ASPxHtmlEditor.v21.2.xml
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\DevExpress.Web.ASPxDiagram.v21.2.xml
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\DevExpress.XtraCharts.v21.2.Web.xml
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\DevExpress.Web.ASPxGantt.v21.2.xml
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\DevExpress.Web.ASPxTreeList.v21.2.xml
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\DevExpress.Web.ASPxSpellChecker.v21.2.xml
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\DevExpress.Web.ASPxPivotGrid.v21.2.xml
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\DevExpress.Web.ASPxRichEdit.v21.2.xml
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\DevExpress.SpellChecker.v21.2.Core.xml
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\DevExpress.Web.ASPxSpreadsheet.v21.2.xml
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\DevExpress.Spreadsheet.v21.2.Core.xml
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\DevExpress.XtraTreeMap.v21.2.xml
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\DevExpress.TreeMap.v21.2.Core.xml
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\de\DevExpress.DataAccess.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\es\DevExpress.DataAccess.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\ja\DevExpress.DataAccess.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\ru\DevExpress.DataAccess.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\de\DevExpress.DataAccess.v21.2.UI.resources.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\es\DevExpress.DataAccess.v21.2.UI.resources.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\ja\DevExpress.DataAccess.v21.2.UI.resources.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\ru\DevExpress.DataAccess.v21.2.UI.resources.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\de\DevExpress.Office.v21.2.Core.resources.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\es\DevExpress.Office.v21.2.Core.resources.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\ja\DevExpress.Office.v21.2.Core.resources.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\ru\DevExpress.Office.v21.2.Core.resources.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\de\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\es\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\ja\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\ru\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\de\DevExpress.PivotGrid.v21.2.Core.resources.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\es\DevExpress.PivotGrid.v21.2.Core.resources.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\ja\DevExpress.PivotGrid.v21.2.Core.resources.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\ru\DevExpress.PivotGrid.v21.2.Core.resources.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\de\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\es\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\ja\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\ru\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\de\DevExpress.Utils.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\es\DevExpress.Utils.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\ja\DevExpress.Utils.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\ru\DevExpress.Utils.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\de\DevExpress.Utils.v21.2.UI.resources.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\es\DevExpress.Utils.v21.2.UI.resources.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\ja\DevExpress.Utils.v21.2.UI.resources.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\ru\DevExpress.Utils.v21.2.UI.resources.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\de\DevExpress.Web.Resources.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\es\DevExpress.Web.Resources.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\ja\DevExpress.Web.Resources.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\ru\DevExpress.Web.Resources.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\de\DevExpress.Xpo.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\es\DevExpress.Xpo.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\ja\DevExpress.Xpo.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\ru\DevExpress.Xpo.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\de\DevExpress.XtraBars.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\es\DevExpress.XtraBars.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\ja\DevExpress.XtraBars.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\ru\DevExpress.XtraBars.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\de\DevExpress.XtraCharts.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\es\DevExpress.XtraCharts.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\ja\DevExpress.XtraCharts.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\ru\DevExpress.XtraCharts.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\de\DevExpress.XtraCharts.v21.2.Wizard.resources.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\es\DevExpress.XtraCharts.v21.2.Wizard.resources.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\ja\DevExpress.XtraCharts.v21.2.Wizard.resources.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\ru\DevExpress.XtraCharts.v21.2.Wizard.resources.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\de\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\es\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\ja\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\ru\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\de\DevExpress.XtraGauges.v21.2.Core.resources.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\es\DevExpress.XtraGauges.v21.2.Core.resources.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\ja\DevExpress.XtraGauges.v21.2.Core.resources.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\ru\DevExpress.XtraGauges.v21.2.Core.resources.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\de\DevExpress.XtraGrid.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\es\DevExpress.XtraGrid.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\ja\DevExpress.XtraGrid.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\ru\DevExpress.XtraGrid.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\de\DevExpress.XtraLayout.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\es\DevExpress.XtraLayout.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\ja\DevExpress.XtraLayout.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\ru\DevExpress.XtraLayout.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\de\DevExpress.XtraNavBar.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\es\DevExpress.XtraNavBar.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\ja\DevExpress.XtraNavBar.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\ru\DevExpress.XtraNavBar.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\de\DevExpress.XtraPivotGrid.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\es\DevExpress.XtraPivotGrid.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\ja\DevExpress.XtraPivotGrid.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\ru\DevExpress.XtraPivotGrid.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\de\DevExpress.XtraPrinting.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\es\DevExpress.XtraPrinting.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\ja\DevExpress.XtraPrinting.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\ru\DevExpress.XtraPrinting.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\de\DevExpress.XtraReports.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\es\DevExpress.XtraReports.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\ja\DevExpress.XtraReports.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\ru\DevExpress.XtraReports.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\de\DevExpress.XtraReports.v21.2.Extensions.resources.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\es\DevExpress.XtraReports.v21.2.Extensions.resources.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\ja\DevExpress.XtraReports.v21.2.Extensions.resources.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\ru\DevExpress.XtraReports.v21.2.Extensions.resources.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\de\DevExpress.XtraReports.v21.2.Web.resources.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\es\DevExpress.XtraReports.v21.2.Web.resources.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\ja\DevExpress.XtraReports.v21.2.Web.resources.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\ru\DevExpress.XtraReports.v21.2.Web.resources.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\de\DevExpress.XtraRichEdit.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\es\DevExpress.XtraRichEdit.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\ja\DevExpress.XtraRichEdit.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\ru\DevExpress.XtraRichEdit.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\de\DevExpress.XtraTreeList.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\es\DevExpress.XtraTreeList.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\ja\DevExpress.XtraTreeList.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\ru\DevExpress.XtraTreeList.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\de\DevExpress.XtraVerticalGrid.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\es\DevExpress.XtraVerticalGrid.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\ja\DevExpress.XtraVerticalGrid.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\ru\DevExpress.XtraVerticalGrid.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\de\DevExpress.Data.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\es\DevExpress.Data.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\ja\DevExpress.Data.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\ru\DevExpress.Data.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\de\DevExpress.RichEdit.v21.2.Core.resources.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\es\DevExpress.RichEdit.v21.2.Core.resources.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\ja\DevExpress.RichEdit.v21.2.Core.resources.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\ru\DevExpress.RichEdit.v21.2.Core.resources.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\de\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\es\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\ja\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\ru\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\de\DevExpress.Web.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\es\DevExpress.Web.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\ja\DevExpress.Web.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\ru\DevExpress.Web.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\de\DevExpress.XtraScheduler.v21.2.Core.resources.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\es\DevExpress.XtraScheduler.v21.2.Core.resources.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\ja\DevExpress.XtraScheduler.v21.2.Core.resources.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\ru\DevExpress.XtraScheduler.v21.2.Core.resources.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\de\DevExpress.Web.ASPxScheduler.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\es\DevExpress.Web.ASPxScheduler.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\ja\DevExpress.Web.ASPxScheduler.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\ru\DevExpress.Web.ASPxScheduler.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\de\DevExpress.Diagram.v21.2.Core.resources.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\es\DevExpress.Diagram.v21.2.Core.resources.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\ja\DevExpress.Diagram.v21.2.Core.resources.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\ru\DevExpress.Diagram.v21.2.Core.resources.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\de\DevExpress.Web.ASPxHtmlEditor.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\es\DevExpress.Web.ASPxHtmlEditor.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\ja\DevExpress.Web.ASPxHtmlEditor.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\ru\DevExpress.Web.ASPxHtmlEditor.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\de\DevExpress.Web.ASPxDiagram.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\es\DevExpress.Web.ASPxDiagram.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\ja\DevExpress.Web.ASPxDiagram.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\ru\DevExpress.Web.ASPxDiagram.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\de\DevExpress.Web.ASPxGantt.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\es\DevExpress.Web.ASPxGantt.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\ja\DevExpress.Web.ASPxGantt.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\ru\DevExpress.Web.ASPxGantt.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\de\DevExpress.Web.ASPxTreeList.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\es\DevExpress.Web.ASPxTreeList.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\ja\DevExpress.Web.ASPxTreeList.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\ru\DevExpress.Web.ASPxTreeList.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\de\DevExpress.Web.ASPxSpellChecker.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\es\DevExpress.Web.ASPxSpellChecker.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\ja\DevExpress.Web.ASPxSpellChecker.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\ru\DevExpress.Web.ASPxSpellChecker.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\de\DevExpress.Web.ASPxRichEdit.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\es\DevExpress.Web.ASPxRichEdit.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\ja\DevExpress.Web.ASPxRichEdit.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\ru\DevExpress.Web.ASPxRichEdit.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\de\DevExpress.Web.ASPxSpreadsheet.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\es\DevExpress.Web.ASPxSpreadsheet.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\ja\DevExpress.Web.ASPxSpreadsheet.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\ru\DevExpress.Web.ASPxSpreadsheet.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\de\DevExpress.Spreadsheet.v21.2.Core.resources.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\es\DevExpress.Spreadsheet.v21.2.Core.resources.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\ja\DevExpress.Spreadsheet.v21.2.Core.resources.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\bin\ru\DevExpress.Spreadsheet.v21.2.Core.resources.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\obj\Release\PREDJL.csproj.AssemblyReference.cache
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\obj\Release\SIADEP.Properties.Resources.resources
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\obj\Release\PREDJL.Reportes.Comprobante.resources
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\obj\Release\SIADEP.Reportes.XtraReport1.resources
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\obj\Release\PREDJL.csproj.GenerateResource.cache
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\obj\Release\SIADEP.dll.licenses
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\obj\Release\PREDJL.csproj.CoreCompileInputs.cache
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\obj\Release\SIADEP.dll
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\obj\Release\SIADEP.pdb
+C:\Users\lgarcia\Desktop\Copia\PREDJL\PREDJL\obj\Release\PREDJL.csproj.Up2Date
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\SIADEP.dll.config
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\SIADEP.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\SIADEP.pdb
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\Aspose.Email.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\Aspose.Words.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\Aspose.Words.Pdf2Word.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\BouncyCastle.Crypto.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\DevExpress.Charts.v21.2.Core.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\DevExpress.CodeParser.v21.2.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\DevExpress.Data.Desktop.v21.2.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\DevExpress.Data.v21.2.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\DevExpress.DataAccess.v21.2.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\DevExpress.DataAccess.v21.2.UI.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\DevExpress.Office.v21.2.Core.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\DevExpress.Pdf.v21.2.Core.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\DevExpress.Pdf.v21.2.Drawing.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\DevExpress.PivotGrid.v21.2.Core.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\DevExpress.Printing.v21.2.Core.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\DevExpress.RichEdit.v21.2.Core.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\DevExpress.RichEdit.v21.2.Export.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\DevExpress.Sparkline.v21.2.Core.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\DevExpress.Utils.v21.2.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\DevExpress.Utils.v21.2.UI.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\DevExpress.Web.ASPxScheduler.v21.2.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\DevExpress.Web.ASPxThemes.v21.2.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\DevExpress.Web.Mvc5.v21.2.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\DevExpress.Web.Resources.v21.2.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\DevExpress.Web.v21.2.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\DevExpress.Xpo.v21.2.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\DevExpress.XtraBars.v21.2.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\DevExpress.XtraCharts.v21.2.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\DevExpress.XtraCharts.v21.2.Extensions.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\DevExpress.XtraCharts.v21.2.Wizard.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\DevExpress.XtraEditors.v21.2.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\DevExpress.XtraGauges.v21.2.Core.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\DevExpress.XtraGrid.v21.2.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\DevExpress.XtraLayout.v21.2.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\DevExpress.XtraNavBar.v21.2.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\DevExpress.XtraPivotGrid.v21.2.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\DevExpress.XtraPrinting.v21.2.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\DevExpress.XtraReports.v21.2.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\DevExpress.XtraReports.v21.2.Extensions.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\DevExpress.XtraReports.v21.2.Web.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\DevExpress.XtraReports.v21.2.Web.WebForms.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\DevExpress.XtraRichEdit.v21.2.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\DevExpress.XtraScheduler.v21.2.Core.Desktop.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\DevExpress.XtraScheduler.v21.2.Core.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\DevExpress.XtraTreeList.v21.2.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\DevExpress.XtraVerticalGrid.v21.2.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\EntityFramework.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\EntityFramework.SqlServer.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\Glimpse.Core.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\GoogleRecaptcha.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\hbehr.recaptcha.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\itextsharp.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\itextsharp.xmlworker.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\Microsoft.Owin.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\Microsoft.Owin.Security.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\Newtonsoft.Json.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\Newtonsoft.Json.Glimpse.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\Newtonsoft.Json.Schema.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\Owin.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\SendGrid.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\StarkbankEcdsa.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\System.Web.Helpers.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\System.Web.Mvc.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\System.Web.Razor.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\System.Web.WebPages.Deployment.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\System.Web.WebPages.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\System.Web.WebPages.Razor.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\DevExpress.XtraDiagram.v21.2.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\DevExpress.Diagram.v21.2.Core.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\DevExpress.Web.ASPxHtmlEditor.v21.2.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\DevExpress.Web.ASPxDiagram.v21.2.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\DevExpress.XtraCharts.v21.2.Web.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\DevExpress.Web.ASPxGantt.v21.2.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\DevExpress.Web.ASPxTreeList.v21.2.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\DevExpress.Web.ASPxSpellChecker.v21.2.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\DevExpress.Web.ASPxPivotGrid.v21.2.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\DevExpress.Web.ASPxRichEdit.v21.2.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\DevExpress.SpellChecker.v21.2.Core.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\DevExpress.Web.ASPxSpreadsheet.v21.2.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\DevExpress.Spreadsheet.v21.2.Core.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\DevExpress.DataVisualization.v21.2.Core.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\DevExpress.Images.v21.2.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\DevExpress.XtraTreeMap.v21.2.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\DevExpress.TreeMap.v21.2.Core.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\Aspose.Email.xml
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\Aspose.Words.xml
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\DevExpress.Charts.v21.2.Core.xml
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\DevExpress.Data.Desktop.v21.2.xml
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\DevExpress.DataAccess.v21.2.xml
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\DevExpress.DataAccess.v21.2.UI.xml
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\DevExpress.Office.v21.2.Core.xml
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\DevExpress.Pdf.v21.2.Core.xml
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\DevExpress.Pdf.v21.2.Drawing.xml
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\DevExpress.PivotGrid.v21.2.Core.xml
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\DevExpress.Sparkline.v21.2.Core.xml
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\DevExpress.Utils.v21.2.xml
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\DevExpress.Utils.v21.2.UI.xml
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\DevExpress.Web.Mvc5.v21.2.xml
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\DevExpress.Xpo.v21.2.xml
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\DevExpress.XtraBars.v21.2.xml
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\DevExpress.XtraCharts.v21.2.xml
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\DevExpress.XtraCharts.v21.2.Wizard.xml
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\DevExpress.XtraEditors.v21.2.xml
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\DevExpress.XtraGauges.v21.2.Core.xml
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\DevExpress.XtraGrid.v21.2.xml
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\DevExpress.XtraLayout.v21.2.xml
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\DevExpress.XtraNavBar.v21.2.xml
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\DevExpress.XtraPivotGrid.v21.2.xml
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\DevExpress.XtraPrinting.v21.2.xml
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\DevExpress.XtraReports.v21.2.xml
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\DevExpress.XtraReports.v21.2.Extensions.xml
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\DevExpress.XtraReports.v21.2.Web.xml
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\DevExpress.XtraReports.v21.2.Web.WebForms.xml
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\DevExpress.XtraRichEdit.v21.2.xml
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\DevExpress.XtraTreeList.v21.2.xml
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\DevExpress.XtraVerticalGrid.v21.2.xml
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\EntityFramework.xml
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\EntityFramework.SqlServer.xml
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\itextsharp.xml
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\Microsoft.Owin.xml
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\Microsoft.Owin.Security.xml
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\Newtonsoft.Json.xml
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\Newtonsoft.Json.Glimpse.xml
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\Newtonsoft.Json.Schema.xml
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\SendGrid.pdb
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\SendGrid.xml
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\System.Web.Helpers.xml
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\System.Web.Mvc.xml
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\System.Web.Razor.xml
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\System.Web.WebPages.xml
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\System.Web.WebPages.Deployment.xml
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\System.Web.WebPages.Razor.xml
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\DevExpress.Data.v21.2.xml
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\DevExpress.RichEdit.v21.2.Core.xml
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\DevExpress.Printing.v21.2.Core.xml
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\DevExpress.Web.v21.2.xml
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\DevExpress.XtraScheduler.v21.2.Core.xml
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\DevExpress.XtraScheduler.v21.2.Core.Desktop.xml
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\DevExpress.Web.ASPxScheduler.v21.2.xml
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\DevExpress.XtraDiagram.v21.2.xml
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\DevExpress.Diagram.v21.2.Core.xml
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\DevExpress.Web.ASPxHtmlEditor.v21.2.xml
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\DevExpress.Web.ASPxDiagram.v21.2.xml
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\DevExpress.XtraCharts.v21.2.Web.xml
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\DevExpress.Web.ASPxGantt.v21.2.xml
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\DevExpress.Web.ASPxTreeList.v21.2.xml
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\DevExpress.Web.ASPxSpellChecker.v21.2.xml
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\DevExpress.Web.ASPxPivotGrid.v21.2.xml
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\DevExpress.Web.ASPxRichEdit.v21.2.xml
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\DevExpress.SpellChecker.v21.2.Core.xml
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\DevExpress.Web.ASPxSpreadsheet.v21.2.xml
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\DevExpress.Spreadsheet.v21.2.Core.xml
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\DevExpress.XtraTreeMap.v21.2.xml
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\DevExpress.TreeMap.v21.2.Core.xml
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\de\DevExpress.DataAccess.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\es\DevExpress.DataAccess.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\ja\DevExpress.DataAccess.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\ru\DevExpress.DataAccess.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\de\DevExpress.DataAccess.v21.2.UI.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\es\DevExpress.DataAccess.v21.2.UI.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\ja\DevExpress.DataAccess.v21.2.UI.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\ru\DevExpress.DataAccess.v21.2.UI.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\de\DevExpress.Office.v21.2.Core.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\es\DevExpress.Office.v21.2.Core.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\ja\DevExpress.Office.v21.2.Core.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\ru\DevExpress.Office.v21.2.Core.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\de\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\es\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\ja\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\ru\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\de\DevExpress.PivotGrid.v21.2.Core.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\es\DevExpress.PivotGrid.v21.2.Core.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\ja\DevExpress.PivotGrid.v21.2.Core.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\ru\DevExpress.PivotGrid.v21.2.Core.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\de\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\es\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\ja\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\ru\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\de\DevExpress.Utils.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\es\DevExpress.Utils.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\ja\DevExpress.Utils.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\ru\DevExpress.Utils.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\de\DevExpress.Utils.v21.2.UI.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\es\DevExpress.Utils.v21.2.UI.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\ja\DevExpress.Utils.v21.2.UI.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\ru\DevExpress.Utils.v21.2.UI.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\de\DevExpress.Web.Resources.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\es\DevExpress.Web.Resources.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\ja\DevExpress.Web.Resources.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\ru\DevExpress.Web.Resources.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\de\DevExpress.Xpo.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\es\DevExpress.Xpo.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\ja\DevExpress.Xpo.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\ru\DevExpress.Xpo.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\de\DevExpress.XtraBars.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\es\DevExpress.XtraBars.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\ja\DevExpress.XtraBars.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\ru\DevExpress.XtraBars.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\de\DevExpress.XtraCharts.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\es\DevExpress.XtraCharts.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\ja\DevExpress.XtraCharts.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\ru\DevExpress.XtraCharts.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\de\DevExpress.XtraCharts.v21.2.Wizard.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\es\DevExpress.XtraCharts.v21.2.Wizard.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\ja\DevExpress.XtraCharts.v21.2.Wizard.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\ru\DevExpress.XtraCharts.v21.2.Wizard.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\de\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\es\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\ja\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\ru\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\de\DevExpress.XtraGauges.v21.2.Core.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\es\DevExpress.XtraGauges.v21.2.Core.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\ja\DevExpress.XtraGauges.v21.2.Core.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\ru\DevExpress.XtraGauges.v21.2.Core.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\de\DevExpress.XtraGrid.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\es\DevExpress.XtraGrid.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\ja\DevExpress.XtraGrid.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\ru\DevExpress.XtraGrid.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\de\DevExpress.XtraLayout.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\es\DevExpress.XtraLayout.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\ja\DevExpress.XtraLayout.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\ru\DevExpress.XtraLayout.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\de\DevExpress.XtraNavBar.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\es\DevExpress.XtraNavBar.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\ja\DevExpress.XtraNavBar.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\ru\DevExpress.XtraNavBar.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\de\DevExpress.XtraPivotGrid.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\es\DevExpress.XtraPivotGrid.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\ja\DevExpress.XtraPivotGrid.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\ru\DevExpress.XtraPivotGrid.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\de\DevExpress.XtraPrinting.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\es\DevExpress.XtraPrinting.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\ja\DevExpress.XtraPrinting.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\ru\DevExpress.XtraPrinting.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\de\DevExpress.XtraReports.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\es\DevExpress.XtraReports.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\ja\DevExpress.XtraReports.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\ru\DevExpress.XtraReports.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\de\DevExpress.XtraReports.v21.2.Extensions.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\es\DevExpress.XtraReports.v21.2.Extensions.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\ja\DevExpress.XtraReports.v21.2.Extensions.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\ru\DevExpress.XtraReports.v21.2.Extensions.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\de\DevExpress.XtraReports.v21.2.Web.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\es\DevExpress.XtraReports.v21.2.Web.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\ja\DevExpress.XtraReports.v21.2.Web.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\ru\DevExpress.XtraReports.v21.2.Web.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\de\DevExpress.XtraRichEdit.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\es\DevExpress.XtraRichEdit.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\ja\DevExpress.XtraRichEdit.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\ru\DevExpress.XtraRichEdit.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\de\DevExpress.XtraTreeList.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\es\DevExpress.XtraTreeList.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\ja\DevExpress.XtraTreeList.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\ru\DevExpress.XtraTreeList.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\de\DevExpress.XtraVerticalGrid.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\es\DevExpress.XtraVerticalGrid.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\ja\DevExpress.XtraVerticalGrid.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\ru\DevExpress.XtraVerticalGrid.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\de\DevExpress.Data.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\es\DevExpress.Data.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\ja\DevExpress.Data.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\ru\DevExpress.Data.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\de\DevExpress.RichEdit.v21.2.Core.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\es\DevExpress.RichEdit.v21.2.Core.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\ja\DevExpress.RichEdit.v21.2.Core.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\ru\DevExpress.RichEdit.v21.2.Core.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\de\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\es\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\ja\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\ru\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\de\DevExpress.Web.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\es\DevExpress.Web.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\ja\DevExpress.Web.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\ru\DevExpress.Web.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\de\DevExpress.XtraScheduler.v21.2.Core.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\es\DevExpress.XtraScheduler.v21.2.Core.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\ja\DevExpress.XtraScheduler.v21.2.Core.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\ru\DevExpress.XtraScheduler.v21.2.Core.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\de\DevExpress.Web.ASPxScheduler.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\es\DevExpress.Web.ASPxScheduler.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\ja\DevExpress.Web.ASPxScheduler.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\ru\DevExpress.Web.ASPxScheduler.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\de\DevExpress.Diagram.v21.2.Core.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\es\DevExpress.Diagram.v21.2.Core.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\ja\DevExpress.Diagram.v21.2.Core.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\ru\DevExpress.Diagram.v21.2.Core.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\de\DevExpress.Web.ASPxHtmlEditor.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\es\DevExpress.Web.ASPxHtmlEditor.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\ja\DevExpress.Web.ASPxHtmlEditor.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\ru\DevExpress.Web.ASPxHtmlEditor.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\de\DevExpress.Web.ASPxDiagram.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\es\DevExpress.Web.ASPxDiagram.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\ja\DevExpress.Web.ASPxDiagram.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\ru\DevExpress.Web.ASPxDiagram.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\de\DevExpress.Web.ASPxGantt.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\es\DevExpress.Web.ASPxGantt.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\ja\DevExpress.Web.ASPxGantt.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\ru\DevExpress.Web.ASPxGantt.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\de\DevExpress.Web.ASPxTreeList.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\es\DevExpress.Web.ASPxTreeList.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\ja\DevExpress.Web.ASPxTreeList.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\ru\DevExpress.Web.ASPxTreeList.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\de\DevExpress.Web.ASPxSpellChecker.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\es\DevExpress.Web.ASPxSpellChecker.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\ja\DevExpress.Web.ASPxSpellChecker.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\ru\DevExpress.Web.ASPxSpellChecker.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\de\DevExpress.Web.ASPxRichEdit.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\es\DevExpress.Web.ASPxRichEdit.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\ja\DevExpress.Web.ASPxRichEdit.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\ru\DevExpress.Web.ASPxRichEdit.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\de\DevExpress.Web.ASPxSpreadsheet.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\es\DevExpress.Web.ASPxSpreadsheet.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\ja\DevExpress.Web.ASPxSpreadsheet.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\ru\DevExpress.Web.ASPxSpreadsheet.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\de\DevExpress.Spreadsheet.v21.2.Core.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\es\DevExpress.Spreadsheet.v21.2.Core.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\ja\DevExpress.Spreadsheet.v21.2.Core.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\bin\ru\DevExpress.Spreadsheet.v21.2.Core.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\obj\Release\PREDJL.csproj.AssemblyReference.cache
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\obj\Release\SIADEP.Properties.Resources.resources
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\obj\Release\PREDJL.Reportes.Comprobante.resources
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\obj\Release\SIADEP.Reportes.XtraReport1.resources
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\obj\Release\PREDJL.csproj.GenerateResource.cache
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\obj\Release\SIADEP.dll.licenses
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\obj\Release\PREDJL.csproj.CoreCompileInputs.cache
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\obj\Release\PREDJL.csproj.Up2Date
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\obj\Release\SIADEP.dll
+C:\Users\lgarcia\Desktop\Copia - 170524\PREDJL\PREDJL\obj\Release\SIADEP.pdb
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\Aspose.Email.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\Aspose.Words.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\Aspose.Words.Pdf2Word.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\BouncyCastle.Crypto.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\DevExpress.Charts.v21.2.Core.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\DevExpress.CodeParser.v21.2.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\DevExpress.Data.Desktop.v21.2.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\DevExpress.Data.v21.2.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\DevExpress.DataAccess.v21.2.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\DevExpress.DataAccess.v21.2.UI.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\DevExpress.Office.v21.2.Core.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\DevExpress.Pdf.v21.2.Core.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\DevExpress.Pdf.v21.2.Drawing.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\DevExpress.PivotGrid.v21.2.Core.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\DevExpress.Printing.v21.2.Core.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\DevExpress.RichEdit.v21.2.Core.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\DevExpress.RichEdit.v21.2.Export.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\DevExpress.Sparkline.v21.2.Core.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\DevExpress.Utils.v21.2.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\DevExpress.Utils.v21.2.UI.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\DevExpress.Web.ASPxScheduler.v21.2.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\DevExpress.Web.ASPxThemes.v21.2.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\DevExpress.Web.Mvc5.v21.2.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\DevExpress.Web.Resources.v21.2.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\DevExpress.Web.v21.2.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\DevExpress.Xpo.v21.2.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\DevExpress.XtraBars.v21.2.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\DevExpress.XtraCharts.v21.2.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\DevExpress.XtraCharts.v21.2.Extensions.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\DevExpress.XtraCharts.v21.2.Wizard.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\DevExpress.XtraEditors.v21.2.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\DevExpress.XtraGauges.v21.2.Core.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\DevExpress.XtraGrid.v21.2.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\DevExpress.XtraLayout.v21.2.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\DevExpress.XtraNavBar.v21.2.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\DevExpress.XtraPivotGrid.v21.2.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\DevExpress.XtraPrinting.v21.2.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\DevExpress.XtraReports.v21.2.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\DevExpress.XtraReports.v21.2.Extensions.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\DevExpress.XtraReports.v21.2.Web.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\DevExpress.XtraReports.v21.2.Web.WebForms.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\DevExpress.XtraRichEdit.v21.2.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\DevExpress.XtraScheduler.v21.2.Core.Desktop.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\DevExpress.XtraScheduler.v21.2.Core.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\DevExpress.XtraTreeList.v21.2.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\DevExpress.XtraVerticalGrid.v21.2.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\EntityFramework.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\EntityFramework.SqlServer.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\Glimpse.Core.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\GoogleRecaptcha.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\hbehr.recaptcha.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\itextsharp.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\itextsharp.xmlworker.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\Microsoft.Owin.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\Microsoft.Owin.Security.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\Newtonsoft.Json.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\Newtonsoft.Json.Glimpse.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\Newtonsoft.Json.Schema.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\Owin.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\SendGrid.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\StarkbankEcdsa.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\System.Web.Helpers.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\System.Web.Mvc.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\System.Web.Razor.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\System.Web.WebPages.Deployment.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\System.Web.WebPages.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\System.Web.WebPages.Razor.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\DevExpress.XtraDiagram.v21.2.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\DevExpress.Diagram.v21.2.Core.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\DevExpress.Web.ASPxHtmlEditor.v21.2.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\DevExpress.Web.ASPxDiagram.v21.2.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\DevExpress.XtraCharts.v21.2.Web.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\DevExpress.Web.ASPxGantt.v21.2.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\DevExpress.Web.ASPxTreeList.v21.2.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\DevExpress.Web.ASPxSpellChecker.v21.2.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\DevExpress.Web.ASPxPivotGrid.v21.2.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\DevExpress.Web.ASPxRichEdit.v21.2.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\DevExpress.SpellChecker.v21.2.Core.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\DevExpress.Web.ASPxSpreadsheet.v21.2.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\DevExpress.Spreadsheet.v21.2.Core.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\DevExpress.DataVisualization.v21.2.Core.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\DevExpress.Images.v21.2.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\DevExpress.XtraTreeMap.v21.2.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\DevExpress.TreeMap.v21.2.Core.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\Aspose.Email.xml
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\Aspose.Words.xml
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\DevExpress.Charts.v21.2.Core.xml
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\DevExpress.Data.Desktop.v21.2.xml
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\DevExpress.DataAccess.v21.2.xml
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\DevExpress.DataAccess.v21.2.UI.xml
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\DevExpress.Office.v21.2.Core.xml
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\DevExpress.Pdf.v21.2.Core.xml
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\DevExpress.Pdf.v21.2.Drawing.xml
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\DevExpress.PivotGrid.v21.2.Core.xml
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\DevExpress.Sparkline.v21.2.Core.xml
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\DevExpress.Utils.v21.2.xml
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\DevExpress.Utils.v21.2.UI.xml
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\DevExpress.Web.Mvc5.v21.2.xml
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\DevExpress.Xpo.v21.2.xml
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\DevExpress.XtraBars.v21.2.xml
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\DevExpress.XtraCharts.v21.2.xml
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\DevExpress.XtraCharts.v21.2.Wizard.xml
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\DevExpress.XtraEditors.v21.2.xml
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\DevExpress.XtraGauges.v21.2.Core.xml
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\DevExpress.XtraGrid.v21.2.xml
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\DevExpress.XtraLayout.v21.2.xml
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\DevExpress.XtraNavBar.v21.2.xml
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\DevExpress.XtraPivotGrid.v21.2.xml
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\DevExpress.XtraPrinting.v21.2.xml
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\DevExpress.XtraReports.v21.2.xml
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\DevExpress.XtraReports.v21.2.Extensions.xml
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\DevExpress.XtraReports.v21.2.Web.xml
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\DevExpress.XtraReports.v21.2.Web.WebForms.xml
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\DevExpress.XtraRichEdit.v21.2.xml
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\DevExpress.XtraTreeList.v21.2.xml
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\DevExpress.XtraVerticalGrid.v21.2.xml
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\EntityFramework.xml
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\EntityFramework.SqlServer.xml
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\itextsharp.xml
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\Microsoft.Owin.xml
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\Microsoft.Owin.Security.xml
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\Newtonsoft.Json.xml
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\Newtonsoft.Json.Glimpse.xml
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\Newtonsoft.Json.Schema.xml
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\SendGrid.pdb
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\SendGrid.xml
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\System.Web.Helpers.xml
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\System.Web.Mvc.xml
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\System.Web.Razor.xml
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\System.Web.WebPages.xml
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\System.Web.WebPages.Deployment.xml
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\System.Web.WebPages.Razor.xml
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\DevExpress.Data.v21.2.xml
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\DevExpress.RichEdit.v21.2.Core.xml
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\DevExpress.Printing.v21.2.Core.xml
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\DevExpress.Web.v21.2.xml
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\DevExpress.XtraScheduler.v21.2.Core.xml
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\DevExpress.XtraScheduler.v21.2.Core.Desktop.xml
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\DevExpress.Web.ASPxScheduler.v21.2.xml
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\DevExpress.XtraDiagram.v21.2.xml
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\DevExpress.Diagram.v21.2.Core.xml
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\DevExpress.Web.ASPxHtmlEditor.v21.2.xml
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\DevExpress.Web.ASPxDiagram.v21.2.xml
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\DevExpress.XtraCharts.v21.2.Web.xml
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\DevExpress.Web.ASPxGantt.v21.2.xml
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\DevExpress.Web.ASPxTreeList.v21.2.xml
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\DevExpress.Web.ASPxSpellChecker.v21.2.xml
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\DevExpress.Web.ASPxPivotGrid.v21.2.xml
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\DevExpress.Web.ASPxRichEdit.v21.2.xml
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\DevExpress.SpellChecker.v21.2.Core.xml
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\DevExpress.Web.ASPxSpreadsheet.v21.2.xml
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\DevExpress.Spreadsheet.v21.2.Core.xml
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\DevExpress.XtraTreeMap.v21.2.xml
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\DevExpress.TreeMap.v21.2.Core.xml
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\de\DevExpress.DataAccess.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\es\DevExpress.DataAccess.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\ja\DevExpress.DataAccess.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\ru\DevExpress.DataAccess.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\de\DevExpress.DataAccess.v21.2.UI.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\es\DevExpress.DataAccess.v21.2.UI.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\ja\DevExpress.DataAccess.v21.2.UI.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\ru\DevExpress.DataAccess.v21.2.UI.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\de\DevExpress.Office.v21.2.Core.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\es\DevExpress.Office.v21.2.Core.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\ja\DevExpress.Office.v21.2.Core.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\ru\DevExpress.Office.v21.2.Core.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\de\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\es\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\ja\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\ru\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\de\DevExpress.PivotGrid.v21.2.Core.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\es\DevExpress.PivotGrid.v21.2.Core.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\ja\DevExpress.PivotGrid.v21.2.Core.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\ru\DevExpress.PivotGrid.v21.2.Core.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\de\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\es\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\ja\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\ru\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\de\DevExpress.Utils.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\es\DevExpress.Utils.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\ja\DevExpress.Utils.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\ru\DevExpress.Utils.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\de\DevExpress.Utils.v21.2.UI.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\es\DevExpress.Utils.v21.2.UI.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\ja\DevExpress.Utils.v21.2.UI.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\ru\DevExpress.Utils.v21.2.UI.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\de\DevExpress.Web.Resources.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\es\DevExpress.Web.Resources.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\ja\DevExpress.Web.Resources.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\ru\DevExpress.Web.Resources.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\de\DevExpress.Xpo.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\es\DevExpress.Xpo.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\ja\DevExpress.Xpo.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\ru\DevExpress.Xpo.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\de\DevExpress.XtraBars.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\es\DevExpress.XtraBars.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\ja\DevExpress.XtraBars.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\ru\DevExpress.XtraBars.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\de\DevExpress.XtraCharts.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\es\DevExpress.XtraCharts.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\ja\DevExpress.XtraCharts.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\ru\DevExpress.XtraCharts.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\de\DevExpress.XtraCharts.v21.2.Wizard.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\es\DevExpress.XtraCharts.v21.2.Wizard.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\ja\DevExpress.XtraCharts.v21.2.Wizard.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\ru\DevExpress.XtraCharts.v21.2.Wizard.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\de\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\es\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\ja\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\ru\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\de\DevExpress.XtraGauges.v21.2.Core.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\es\DevExpress.XtraGauges.v21.2.Core.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\ja\DevExpress.XtraGauges.v21.2.Core.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\ru\DevExpress.XtraGauges.v21.2.Core.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\de\DevExpress.XtraGrid.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\es\DevExpress.XtraGrid.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\ja\DevExpress.XtraGrid.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\ru\DevExpress.XtraGrid.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\de\DevExpress.XtraLayout.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\es\DevExpress.XtraLayout.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\ja\DevExpress.XtraLayout.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\ru\DevExpress.XtraLayout.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\de\DevExpress.XtraNavBar.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\es\DevExpress.XtraNavBar.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\ja\DevExpress.XtraNavBar.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\ru\DevExpress.XtraNavBar.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\de\DevExpress.XtraPivotGrid.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\es\DevExpress.XtraPivotGrid.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\ja\DevExpress.XtraPivotGrid.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\ru\DevExpress.XtraPivotGrid.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\de\DevExpress.XtraPrinting.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\es\DevExpress.XtraPrinting.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\ja\DevExpress.XtraPrinting.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\ru\DevExpress.XtraPrinting.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\de\DevExpress.XtraReports.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\es\DevExpress.XtraReports.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\ja\DevExpress.XtraReports.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\ru\DevExpress.XtraReports.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\de\DevExpress.XtraReports.v21.2.Extensions.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\es\DevExpress.XtraReports.v21.2.Extensions.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\ja\DevExpress.XtraReports.v21.2.Extensions.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\ru\DevExpress.XtraReports.v21.2.Extensions.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\de\DevExpress.XtraReports.v21.2.Web.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\es\DevExpress.XtraReports.v21.2.Web.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\ja\DevExpress.XtraReports.v21.2.Web.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\ru\DevExpress.XtraReports.v21.2.Web.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\de\DevExpress.XtraRichEdit.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\es\DevExpress.XtraRichEdit.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\ja\DevExpress.XtraRichEdit.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\ru\DevExpress.XtraRichEdit.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\de\DevExpress.XtraTreeList.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\es\DevExpress.XtraTreeList.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\ja\DevExpress.XtraTreeList.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\ru\DevExpress.XtraTreeList.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\de\DevExpress.XtraVerticalGrid.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\es\DevExpress.XtraVerticalGrid.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\ja\DevExpress.XtraVerticalGrid.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\ru\DevExpress.XtraVerticalGrid.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\de\DevExpress.Data.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\es\DevExpress.Data.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\ja\DevExpress.Data.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\ru\DevExpress.Data.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\de\DevExpress.RichEdit.v21.2.Core.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\es\DevExpress.RichEdit.v21.2.Core.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\ja\DevExpress.RichEdit.v21.2.Core.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\ru\DevExpress.RichEdit.v21.2.Core.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\de\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\es\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\ja\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\ru\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\de\DevExpress.Web.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\es\DevExpress.Web.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\ja\DevExpress.Web.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\ru\DevExpress.Web.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\de\DevExpress.XtraScheduler.v21.2.Core.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\es\DevExpress.XtraScheduler.v21.2.Core.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\ja\DevExpress.XtraScheduler.v21.2.Core.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\ru\DevExpress.XtraScheduler.v21.2.Core.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\de\DevExpress.Web.ASPxScheduler.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\es\DevExpress.Web.ASPxScheduler.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\ja\DevExpress.Web.ASPxScheduler.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\ru\DevExpress.Web.ASPxScheduler.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\de\DevExpress.Diagram.v21.2.Core.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\es\DevExpress.Diagram.v21.2.Core.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\ja\DevExpress.Diagram.v21.2.Core.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\ru\DevExpress.Diagram.v21.2.Core.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\de\DevExpress.Web.ASPxHtmlEditor.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\es\DevExpress.Web.ASPxHtmlEditor.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\ja\DevExpress.Web.ASPxHtmlEditor.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\ru\DevExpress.Web.ASPxHtmlEditor.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\de\DevExpress.Web.ASPxDiagram.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\es\DevExpress.Web.ASPxDiagram.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\ja\DevExpress.Web.ASPxDiagram.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\ru\DevExpress.Web.ASPxDiagram.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\de\DevExpress.Web.ASPxGantt.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\es\DevExpress.Web.ASPxGantt.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\ja\DevExpress.Web.ASPxGantt.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\ru\DevExpress.Web.ASPxGantt.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\de\DevExpress.Web.ASPxTreeList.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\es\DevExpress.Web.ASPxTreeList.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\ja\DevExpress.Web.ASPxTreeList.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\ru\DevExpress.Web.ASPxTreeList.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\de\DevExpress.Web.ASPxSpellChecker.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\es\DevExpress.Web.ASPxSpellChecker.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\ja\DevExpress.Web.ASPxSpellChecker.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\ru\DevExpress.Web.ASPxSpellChecker.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\de\DevExpress.Web.ASPxRichEdit.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\es\DevExpress.Web.ASPxRichEdit.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\ja\DevExpress.Web.ASPxRichEdit.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\ru\DevExpress.Web.ASPxRichEdit.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\de\DevExpress.Web.ASPxSpreadsheet.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\es\DevExpress.Web.ASPxSpreadsheet.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\ja\DevExpress.Web.ASPxSpreadsheet.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\ru\DevExpress.Web.ASPxSpreadsheet.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\de\DevExpress.Spreadsheet.v21.2.Core.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\es\DevExpress.Spreadsheet.v21.2.Core.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\ja\DevExpress.Spreadsheet.v21.2.Core.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\ru\DevExpress.Spreadsheet.v21.2.Core.resources.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\obj\Release\PREDJL.csproj.AssemblyReference.cache
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\obj\Release\PREDJL.Reportes.Comprobante.resources
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\obj\Release\PREDJL.Reportes.XtraReport1.resources
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\obj\Release\PREDJL.csproj.GenerateResource.cache
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\obj\Release\PREDJL.csproj.CoreCompileInputs.cache
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\obj\Release\PREDJL.csproj.Up2Date
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\Microsoft.AspNetCore.Authorization.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\Microsoft.AspNetCore.Components.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\Microsoft.AspNetCore.Metadata.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\Microsoft.Extensions.Options.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\Microsoft.JSInterop.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\System.Buffers.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\System.ComponentModel.Annotations.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\System.Memory.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\System.Numerics.Vectors.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\System.Text.Encodings.Web.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\System.Text.Json.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\System.ValueTuple.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\Microsoft.AspNetCore.Authorization.xml
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\Microsoft.AspNetCore.Components.xml
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\Microsoft.AspNetCore.Components.Forms.xml
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\Microsoft.AspNetCore.Components.Web.xml
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\Microsoft.AspNetCore.Metadata.xml
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\Microsoft.Extensions.Options.xml
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\Microsoft.JSInterop.xml
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\System.Buffers.xml
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\System.Memory.xml
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\System.Numerics.Vectors.xml
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\System.Text.Encodings.Web.xml
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\System.Text.Json.xml
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\System.ValueTuple.xml
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\PREDJL.dll.config
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\PREDJL.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\bin\PREDJL.pdb
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\obj\Release\PREDJL.Properties.Resources.resources
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\obj\Release\PREDJL.dll.licenses
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\obj\Release\PREDJL.dll
+C:\Users\lgarcia\Desktop\Copia - 220524\PREDJL\PREDJL\obj\Release\PREDJL.pdb
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\PREDJL.dll.config
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\PREDJL.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\PREDJL.pdb
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\Aspose.Email.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\Aspose.Words.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\Aspose.Words.Pdf2Word.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\BouncyCastle.Crypto.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\DevExpress.Charts.v21.2.Core.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\DevExpress.CodeParser.v21.2.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\DevExpress.Data.Desktop.v21.2.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\DevExpress.Data.v21.2.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\DevExpress.DataAccess.v21.2.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\DevExpress.DataAccess.v21.2.UI.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\DevExpress.Office.v21.2.Core.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\DevExpress.Pdf.v21.2.Core.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\DevExpress.Pdf.v21.2.Drawing.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\DevExpress.PivotGrid.v21.2.Core.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\DevExpress.Printing.v21.2.Core.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\DevExpress.RichEdit.v21.2.Core.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\DevExpress.RichEdit.v21.2.Export.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\DevExpress.Sparkline.v21.2.Core.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\DevExpress.Utils.v21.2.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\DevExpress.Utils.v21.2.UI.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\DevExpress.Web.ASPxScheduler.v21.2.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\DevExpress.Web.ASPxThemes.v21.2.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\DevExpress.Web.Mvc5.v21.2.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\DevExpress.Web.Resources.v21.2.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\DevExpress.Web.v21.2.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\DevExpress.Xpo.v21.2.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\DevExpress.XtraBars.v21.2.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\DevExpress.XtraCharts.v21.2.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\DevExpress.XtraCharts.v21.2.Extensions.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\DevExpress.XtraCharts.v21.2.Wizard.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\DevExpress.XtraEditors.v21.2.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\DevExpress.XtraGauges.v21.2.Core.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\DevExpress.XtraGrid.v21.2.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\DevExpress.XtraLayout.v21.2.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\DevExpress.XtraNavBar.v21.2.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\DevExpress.XtraPivotGrid.v21.2.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\DevExpress.XtraPrinting.v21.2.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\DevExpress.XtraReports.v21.2.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\DevExpress.XtraReports.v21.2.Extensions.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\DevExpress.XtraReports.v21.2.Web.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\DevExpress.XtraReports.v21.2.Web.WebForms.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\DevExpress.XtraRichEdit.v21.2.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\DevExpress.XtraScheduler.v21.2.Core.Desktop.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\DevExpress.XtraScheduler.v21.2.Core.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\DevExpress.XtraTreeList.v21.2.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\DevExpress.XtraVerticalGrid.v21.2.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\EntityFramework.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\EntityFramework.SqlServer.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\Glimpse.Core.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\GoogleRecaptcha.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\hbehr.recaptcha.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\itextsharp.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\itextsharp.xmlworker.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\Microsoft.AspNetCore.Authorization.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\Microsoft.AspNetCore.Components.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\Microsoft.AspNetCore.Metadata.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\Microsoft.Extensions.Options.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\Microsoft.JSInterop.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\Microsoft.Owin.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\Microsoft.Owin.Security.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\Newtonsoft.Json.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\Newtonsoft.Json.Glimpse.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\Newtonsoft.Json.Schema.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\Owin.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\SendGrid.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\StarkbankEcdsa.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\System.Buffers.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\System.ComponentModel.Annotations.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\System.Memory.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\System.Numerics.Vectors.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\System.Text.Encodings.Web.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\System.Text.Json.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\System.ValueTuple.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\System.Web.Helpers.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\System.Web.Mvc.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\System.Web.Razor.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\System.Web.WebPages.Deployment.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\System.Web.WebPages.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\System.Web.WebPages.Razor.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\DevExpress.XtraDiagram.v21.2.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\DevExpress.Diagram.v21.2.Core.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\DevExpress.Web.ASPxHtmlEditor.v21.2.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\DevExpress.Web.ASPxDiagram.v21.2.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\DevExpress.XtraCharts.v21.2.Web.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\DevExpress.Web.ASPxGantt.v21.2.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\DevExpress.Web.ASPxTreeList.v21.2.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\DevExpress.Web.ASPxSpellChecker.v21.2.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\DevExpress.Web.ASPxPivotGrid.v21.2.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\DevExpress.Web.ASPxRichEdit.v21.2.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\DevExpress.SpellChecker.v21.2.Core.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\DevExpress.Web.ASPxSpreadsheet.v21.2.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\DevExpress.Spreadsheet.v21.2.Core.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\DevExpress.DataVisualization.v21.2.Core.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\DevExpress.Images.v21.2.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\DevExpress.XtraTreeMap.v21.2.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\DevExpress.TreeMap.v21.2.Core.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\Aspose.Email.xml
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\Aspose.Words.xml
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\DevExpress.Charts.v21.2.Core.xml
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\DevExpress.Data.Desktop.v21.2.xml
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\DevExpress.DataAccess.v21.2.xml
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\DevExpress.DataAccess.v21.2.UI.xml
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\DevExpress.Office.v21.2.Core.xml
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\DevExpress.Pdf.v21.2.Core.xml
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\DevExpress.Pdf.v21.2.Drawing.xml
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\DevExpress.PivotGrid.v21.2.Core.xml
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\DevExpress.Sparkline.v21.2.Core.xml
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\DevExpress.Utils.v21.2.xml
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\DevExpress.Utils.v21.2.UI.xml
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\DevExpress.Web.Mvc5.v21.2.xml
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\DevExpress.Xpo.v21.2.xml
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\DevExpress.XtraBars.v21.2.xml
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\DevExpress.XtraCharts.v21.2.xml
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\DevExpress.XtraCharts.v21.2.Wizard.xml
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\DevExpress.XtraEditors.v21.2.xml
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\DevExpress.XtraGauges.v21.2.Core.xml
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\DevExpress.XtraGrid.v21.2.xml
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\DevExpress.XtraLayout.v21.2.xml
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\DevExpress.XtraNavBar.v21.2.xml
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\DevExpress.XtraPivotGrid.v21.2.xml
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\DevExpress.XtraPrinting.v21.2.xml
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\DevExpress.XtraReports.v21.2.xml
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\DevExpress.XtraReports.v21.2.Extensions.xml
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\DevExpress.XtraReports.v21.2.Web.xml
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\DevExpress.XtraReports.v21.2.Web.WebForms.xml
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\DevExpress.XtraRichEdit.v21.2.xml
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\DevExpress.XtraTreeList.v21.2.xml
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\DevExpress.XtraVerticalGrid.v21.2.xml
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\EntityFramework.xml
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\EntityFramework.SqlServer.xml
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\itextsharp.xml
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\Microsoft.AspNetCore.Authorization.xml
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\Microsoft.AspNetCore.Components.xml
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\Microsoft.AspNetCore.Components.Forms.xml
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\Microsoft.AspNetCore.Components.Web.xml
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\Microsoft.AspNetCore.Metadata.xml
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\Microsoft.Extensions.Options.xml
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\Microsoft.JSInterop.xml
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\Microsoft.Owin.xml
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\Microsoft.Owin.Security.xml
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\Newtonsoft.Json.xml
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\Newtonsoft.Json.Glimpse.xml
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\Newtonsoft.Json.Schema.xml
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\SendGrid.pdb
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\SendGrid.xml
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\System.Buffers.xml
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\System.Memory.xml
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\System.Numerics.Vectors.xml
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\System.Text.Encodings.Web.xml
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\System.Text.Json.xml
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\System.ValueTuple.xml
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\System.Web.Helpers.xml
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\System.Web.Mvc.xml
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\System.Web.Razor.xml
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\System.Web.WebPages.xml
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\System.Web.WebPages.Deployment.xml
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\System.Web.WebPages.Razor.xml
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\DevExpress.Data.v21.2.xml
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\DevExpress.RichEdit.v21.2.Core.xml
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\DevExpress.Printing.v21.2.Core.xml
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\DevExpress.Web.v21.2.xml
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\DevExpress.XtraScheduler.v21.2.Core.xml
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\DevExpress.XtraScheduler.v21.2.Core.Desktop.xml
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\DevExpress.Web.ASPxScheduler.v21.2.xml
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\DevExpress.XtraDiagram.v21.2.xml
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\DevExpress.Diagram.v21.2.Core.xml
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\DevExpress.Web.ASPxHtmlEditor.v21.2.xml
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\DevExpress.Web.ASPxDiagram.v21.2.xml
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\DevExpress.XtraCharts.v21.2.Web.xml
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\DevExpress.Web.ASPxGantt.v21.2.xml
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\DevExpress.Web.ASPxTreeList.v21.2.xml
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\DevExpress.Web.ASPxSpellChecker.v21.2.xml
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\DevExpress.Web.ASPxPivotGrid.v21.2.xml
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\DevExpress.Web.ASPxRichEdit.v21.2.xml
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\DevExpress.SpellChecker.v21.2.Core.xml
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\DevExpress.Web.ASPxSpreadsheet.v21.2.xml
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\DevExpress.Spreadsheet.v21.2.Core.xml
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\DevExpress.XtraTreeMap.v21.2.xml
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\DevExpress.TreeMap.v21.2.Core.xml
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\de\DevExpress.DataAccess.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\es\DevExpress.DataAccess.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\ja\DevExpress.DataAccess.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\ru\DevExpress.DataAccess.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\de\DevExpress.DataAccess.v21.2.UI.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\es\DevExpress.DataAccess.v21.2.UI.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\ja\DevExpress.DataAccess.v21.2.UI.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\ru\DevExpress.DataAccess.v21.2.UI.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\de\DevExpress.Office.v21.2.Core.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\es\DevExpress.Office.v21.2.Core.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\ja\DevExpress.Office.v21.2.Core.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\ru\DevExpress.Office.v21.2.Core.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\de\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\es\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\ja\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\ru\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\de\DevExpress.PivotGrid.v21.2.Core.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\es\DevExpress.PivotGrid.v21.2.Core.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\ja\DevExpress.PivotGrid.v21.2.Core.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\ru\DevExpress.PivotGrid.v21.2.Core.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\de\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\es\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\ja\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\ru\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\de\DevExpress.Utils.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\es\DevExpress.Utils.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\ja\DevExpress.Utils.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\ru\DevExpress.Utils.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\de\DevExpress.Utils.v21.2.UI.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\es\DevExpress.Utils.v21.2.UI.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\ja\DevExpress.Utils.v21.2.UI.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\ru\DevExpress.Utils.v21.2.UI.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\de\DevExpress.Web.Resources.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\es\DevExpress.Web.Resources.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\ja\DevExpress.Web.Resources.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\ru\DevExpress.Web.Resources.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\de\DevExpress.Xpo.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\es\DevExpress.Xpo.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\ja\DevExpress.Xpo.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\ru\DevExpress.Xpo.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\de\DevExpress.XtraBars.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\es\DevExpress.XtraBars.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\ja\DevExpress.XtraBars.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\ru\DevExpress.XtraBars.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\de\DevExpress.XtraCharts.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\es\DevExpress.XtraCharts.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\ja\DevExpress.XtraCharts.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\ru\DevExpress.XtraCharts.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\de\DevExpress.XtraCharts.v21.2.Wizard.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\es\DevExpress.XtraCharts.v21.2.Wizard.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\ja\DevExpress.XtraCharts.v21.2.Wizard.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\ru\DevExpress.XtraCharts.v21.2.Wizard.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\de\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\es\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\ja\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\ru\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\de\DevExpress.XtraGauges.v21.2.Core.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\es\DevExpress.XtraGauges.v21.2.Core.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\ja\DevExpress.XtraGauges.v21.2.Core.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\ru\DevExpress.XtraGauges.v21.2.Core.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\de\DevExpress.XtraGrid.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\es\DevExpress.XtraGrid.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\ja\DevExpress.XtraGrid.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\ru\DevExpress.XtraGrid.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\de\DevExpress.XtraLayout.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\es\DevExpress.XtraLayout.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\ja\DevExpress.XtraLayout.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\ru\DevExpress.XtraLayout.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\de\DevExpress.XtraNavBar.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\es\DevExpress.XtraNavBar.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\ja\DevExpress.XtraNavBar.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\ru\DevExpress.XtraNavBar.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\de\DevExpress.XtraPivotGrid.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\es\DevExpress.XtraPivotGrid.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\ja\DevExpress.XtraPivotGrid.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\ru\DevExpress.XtraPivotGrid.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\de\DevExpress.XtraPrinting.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\es\DevExpress.XtraPrinting.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\ja\DevExpress.XtraPrinting.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\ru\DevExpress.XtraPrinting.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\de\DevExpress.XtraReports.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\es\DevExpress.XtraReports.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\ja\DevExpress.XtraReports.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\ru\DevExpress.XtraReports.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\de\DevExpress.XtraReports.v21.2.Extensions.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\es\DevExpress.XtraReports.v21.2.Extensions.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\ja\DevExpress.XtraReports.v21.2.Extensions.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\ru\DevExpress.XtraReports.v21.2.Extensions.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\de\DevExpress.XtraReports.v21.2.Web.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\es\DevExpress.XtraReports.v21.2.Web.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\ja\DevExpress.XtraReports.v21.2.Web.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\ru\DevExpress.XtraReports.v21.2.Web.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\de\DevExpress.XtraRichEdit.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\es\DevExpress.XtraRichEdit.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\ja\DevExpress.XtraRichEdit.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\ru\DevExpress.XtraRichEdit.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\de\DevExpress.XtraTreeList.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\es\DevExpress.XtraTreeList.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\ja\DevExpress.XtraTreeList.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\ru\DevExpress.XtraTreeList.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\de\DevExpress.XtraVerticalGrid.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\es\DevExpress.XtraVerticalGrid.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\ja\DevExpress.XtraVerticalGrid.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\ru\DevExpress.XtraVerticalGrid.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\de\DevExpress.Data.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\es\DevExpress.Data.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\ja\DevExpress.Data.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\ru\DevExpress.Data.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\de\DevExpress.RichEdit.v21.2.Core.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\es\DevExpress.RichEdit.v21.2.Core.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\ja\DevExpress.RichEdit.v21.2.Core.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\ru\DevExpress.RichEdit.v21.2.Core.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\de\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\es\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\ja\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\ru\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\de\DevExpress.Web.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\es\DevExpress.Web.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\ja\DevExpress.Web.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\ru\DevExpress.Web.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\de\DevExpress.XtraScheduler.v21.2.Core.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\es\DevExpress.XtraScheduler.v21.2.Core.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\ja\DevExpress.XtraScheduler.v21.2.Core.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\ru\DevExpress.XtraScheduler.v21.2.Core.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\de\DevExpress.Web.ASPxScheduler.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\es\DevExpress.Web.ASPxScheduler.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\ja\DevExpress.Web.ASPxScheduler.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\ru\DevExpress.Web.ASPxScheduler.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\de\DevExpress.Diagram.v21.2.Core.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\es\DevExpress.Diagram.v21.2.Core.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\ja\DevExpress.Diagram.v21.2.Core.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\ru\DevExpress.Diagram.v21.2.Core.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\de\DevExpress.Web.ASPxHtmlEditor.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\es\DevExpress.Web.ASPxHtmlEditor.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\ja\DevExpress.Web.ASPxHtmlEditor.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\ru\DevExpress.Web.ASPxHtmlEditor.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\de\DevExpress.Web.ASPxDiagram.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\es\DevExpress.Web.ASPxDiagram.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\ja\DevExpress.Web.ASPxDiagram.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\ru\DevExpress.Web.ASPxDiagram.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\de\DevExpress.Web.ASPxGantt.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\es\DevExpress.Web.ASPxGantt.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\ja\DevExpress.Web.ASPxGantt.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\ru\DevExpress.Web.ASPxGantt.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\de\DevExpress.Web.ASPxTreeList.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\es\DevExpress.Web.ASPxTreeList.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\ja\DevExpress.Web.ASPxTreeList.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\ru\DevExpress.Web.ASPxTreeList.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\de\DevExpress.Web.ASPxSpellChecker.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\es\DevExpress.Web.ASPxSpellChecker.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\ja\DevExpress.Web.ASPxSpellChecker.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\ru\DevExpress.Web.ASPxSpellChecker.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\de\DevExpress.Web.ASPxRichEdit.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\es\DevExpress.Web.ASPxRichEdit.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\ja\DevExpress.Web.ASPxRichEdit.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\ru\DevExpress.Web.ASPxRichEdit.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\de\DevExpress.Web.ASPxSpreadsheet.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\es\DevExpress.Web.ASPxSpreadsheet.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\ja\DevExpress.Web.ASPxSpreadsheet.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\ru\DevExpress.Web.ASPxSpreadsheet.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\de\DevExpress.Spreadsheet.v21.2.Core.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\es\DevExpress.Spreadsheet.v21.2.Core.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\ja\DevExpress.Spreadsheet.v21.2.Core.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\bin\ru\DevExpress.Spreadsheet.v21.2.Core.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\obj\Release\PREDJL.csproj.AssemblyReference.cache
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\obj\Release\PREDJL.Properties.Resources.resources
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\obj\Release\PREDJL.Reportes.Comprobante.resources
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\obj\Release\PREDJL.Reportes.XtraReport1.resources
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\obj\Release\PREDJL.csproj.GenerateResource.cache
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\obj\Release\PREDJL.dll.licenses
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\obj\Release\PREDJL.csproj.CoreCompileInputs.cache
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\obj\Release\PREDJL.csproj.Up2Date
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\obj\Release\PREDJL.dll
+C:\Users\lgarcia\Desktop\PRESDJL - 220524\PREDJL\PREDJL\obj\Release\PREDJL.pdb
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\PREDJL.dll.config
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\PREDJL.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\PREDJL.pdb
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\Aspose.Email.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\Aspose.Words.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\Aspose.Words.Pdf2Word.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\BouncyCastle.Crypto.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\DevExpress.Charts.v21.2.Core.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\DevExpress.CodeParser.v21.2.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\DevExpress.Data.Desktop.v21.2.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\DevExpress.Data.v21.2.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\DevExpress.DataAccess.v21.2.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\DevExpress.DataAccess.v21.2.UI.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\DevExpress.Office.v21.2.Core.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\DevExpress.Pdf.v21.2.Core.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\DevExpress.Pdf.v21.2.Drawing.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\DevExpress.PivotGrid.v21.2.Core.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\DevExpress.Printing.v21.2.Core.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\DevExpress.RichEdit.v21.2.Core.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\DevExpress.RichEdit.v21.2.Export.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\DevExpress.Sparkline.v21.2.Core.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\DevExpress.Utils.v21.2.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\DevExpress.Utils.v21.2.UI.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\DevExpress.Web.ASPxScheduler.v21.2.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\DevExpress.Web.ASPxThemes.v21.2.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\DevExpress.Web.Mvc5.v21.2.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\DevExpress.Web.Resources.v21.2.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\DevExpress.Web.v21.2.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\DevExpress.Xpo.v21.2.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\DevExpress.XtraBars.v21.2.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\DevExpress.XtraCharts.v21.2.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\DevExpress.XtraCharts.v21.2.Extensions.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\DevExpress.XtraCharts.v21.2.Wizard.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\DevExpress.XtraEditors.v21.2.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\DevExpress.XtraGauges.v21.2.Core.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\DevExpress.XtraGrid.v21.2.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\DevExpress.XtraLayout.v21.2.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\DevExpress.XtraNavBar.v21.2.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\DevExpress.XtraPivotGrid.v21.2.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\DevExpress.XtraPrinting.v21.2.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\DevExpress.XtraReports.v21.2.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\DevExpress.XtraReports.v21.2.Extensions.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\DevExpress.XtraReports.v21.2.Web.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\DevExpress.XtraReports.v21.2.Web.WebForms.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\DevExpress.XtraRichEdit.v21.2.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\DevExpress.XtraScheduler.v21.2.Core.Desktop.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\DevExpress.XtraScheduler.v21.2.Core.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\DevExpress.XtraTreeList.v21.2.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\DevExpress.XtraVerticalGrid.v21.2.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\EntityFramework.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\EntityFramework.SqlServer.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\Glimpse.Core.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\GoogleRecaptcha.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\hbehr.recaptcha.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\itextsharp.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\itextsharp.xmlworker.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\Microsoft.AspNetCore.Authorization.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\Microsoft.AspNetCore.Components.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\Microsoft.AspNetCore.Metadata.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\Microsoft.Extensions.Options.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\Microsoft.JSInterop.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\Microsoft.Owin.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\Microsoft.Owin.Security.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\Newtonsoft.Json.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\Newtonsoft.Json.Glimpse.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\Newtonsoft.Json.Schema.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\Owin.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\SendGrid.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\StarkbankEcdsa.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\System.Buffers.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\System.ComponentModel.Annotations.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\System.Memory.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\System.Numerics.Vectors.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\System.Text.Encodings.Web.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\System.Text.Json.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\System.ValueTuple.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\System.Web.Helpers.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\System.Web.Mvc.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\System.Web.Razor.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\System.Web.WebPages.Deployment.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\System.Web.WebPages.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\System.Web.WebPages.Razor.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\DevExpress.XtraDiagram.v21.2.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\DevExpress.Diagram.v21.2.Core.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\DevExpress.Web.ASPxHtmlEditor.v21.2.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\DevExpress.Web.ASPxDiagram.v21.2.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\DevExpress.XtraCharts.v21.2.Web.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\DevExpress.Web.ASPxGantt.v21.2.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\DevExpress.Web.ASPxTreeList.v21.2.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\DevExpress.Web.ASPxSpellChecker.v21.2.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\DevExpress.Web.ASPxPivotGrid.v21.2.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\DevExpress.Web.ASPxRichEdit.v21.2.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\DevExpress.SpellChecker.v21.2.Core.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\DevExpress.Web.ASPxSpreadsheet.v21.2.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\DevExpress.Spreadsheet.v21.2.Core.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\DevExpress.DataVisualization.v21.2.Core.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\DevExpress.Images.v21.2.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\DevExpress.XtraTreeMap.v21.2.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\DevExpress.TreeMap.v21.2.Core.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\Aspose.Email.xml
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\Aspose.Words.xml
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\DevExpress.Charts.v21.2.Core.xml
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\DevExpress.Data.Desktop.v21.2.xml
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\DevExpress.DataAccess.v21.2.xml
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\DevExpress.DataAccess.v21.2.UI.xml
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\DevExpress.Office.v21.2.Core.xml
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\DevExpress.Pdf.v21.2.Core.xml
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\DevExpress.Pdf.v21.2.Drawing.xml
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\DevExpress.PivotGrid.v21.2.Core.xml
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\DevExpress.Sparkline.v21.2.Core.xml
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\DevExpress.Utils.v21.2.xml
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\DevExpress.Utils.v21.2.UI.xml
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\DevExpress.Web.Mvc5.v21.2.xml
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\DevExpress.Xpo.v21.2.xml
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\DevExpress.XtraBars.v21.2.xml
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\DevExpress.XtraCharts.v21.2.xml
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\DevExpress.XtraCharts.v21.2.Wizard.xml
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\DevExpress.XtraEditors.v21.2.xml
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\DevExpress.XtraGauges.v21.2.Core.xml
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\DevExpress.XtraGrid.v21.2.xml
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\DevExpress.XtraLayout.v21.2.xml
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\DevExpress.XtraNavBar.v21.2.xml
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\DevExpress.XtraPivotGrid.v21.2.xml
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\DevExpress.XtraPrinting.v21.2.xml
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\DevExpress.XtraReports.v21.2.xml
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\DevExpress.XtraReports.v21.2.Extensions.xml
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\DevExpress.XtraReports.v21.2.Web.xml
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\DevExpress.XtraReports.v21.2.Web.WebForms.xml
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\DevExpress.XtraRichEdit.v21.2.xml
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\DevExpress.XtraTreeList.v21.2.xml
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\DevExpress.XtraVerticalGrid.v21.2.xml
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\EntityFramework.xml
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\EntityFramework.SqlServer.xml
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\itextsharp.xml
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\Microsoft.AspNetCore.Authorization.xml
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\Microsoft.AspNetCore.Components.xml
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\Microsoft.AspNetCore.Components.Forms.xml
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\Microsoft.AspNetCore.Components.Web.xml
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\Microsoft.AspNetCore.Metadata.xml
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\Microsoft.Extensions.Options.xml
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\Microsoft.JSInterop.xml
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\Microsoft.Owin.xml
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\Microsoft.Owin.Security.xml
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\Newtonsoft.Json.xml
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\Newtonsoft.Json.Glimpse.xml
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\Newtonsoft.Json.Schema.xml
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\SendGrid.pdb
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\SendGrid.xml
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\System.Buffers.xml
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\System.Memory.xml
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\System.Numerics.Vectors.xml
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\System.Text.Encodings.Web.xml
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\System.Text.Json.xml
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\System.ValueTuple.xml
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\System.Web.Helpers.xml
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\System.Web.Mvc.xml
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\System.Web.Razor.xml
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\System.Web.WebPages.xml
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\System.Web.WebPages.Deployment.xml
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\System.Web.WebPages.Razor.xml
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\DevExpress.Data.v21.2.xml
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\DevExpress.RichEdit.v21.2.Core.xml
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\DevExpress.Printing.v21.2.Core.xml
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\DevExpress.Web.v21.2.xml
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\DevExpress.XtraScheduler.v21.2.Core.xml
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\DevExpress.XtraScheduler.v21.2.Core.Desktop.xml
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\DevExpress.Web.ASPxScheduler.v21.2.xml
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\DevExpress.XtraDiagram.v21.2.xml
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\DevExpress.Diagram.v21.2.Core.xml
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\DevExpress.Web.ASPxHtmlEditor.v21.2.xml
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\DevExpress.Web.ASPxDiagram.v21.2.xml
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\DevExpress.XtraCharts.v21.2.Web.xml
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\DevExpress.Web.ASPxGantt.v21.2.xml
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\DevExpress.Web.ASPxTreeList.v21.2.xml
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\DevExpress.Web.ASPxSpellChecker.v21.2.xml
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\DevExpress.Web.ASPxPivotGrid.v21.2.xml
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\DevExpress.Web.ASPxRichEdit.v21.2.xml
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\DevExpress.SpellChecker.v21.2.Core.xml
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\DevExpress.Web.ASPxSpreadsheet.v21.2.xml
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\DevExpress.Spreadsheet.v21.2.Core.xml
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\DevExpress.XtraTreeMap.v21.2.xml
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\DevExpress.TreeMap.v21.2.Core.xml
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\de\DevExpress.DataAccess.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\es\DevExpress.DataAccess.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\ja\DevExpress.DataAccess.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\ru\DevExpress.DataAccess.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\de\DevExpress.DataAccess.v21.2.UI.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\es\DevExpress.DataAccess.v21.2.UI.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\ja\DevExpress.DataAccess.v21.2.UI.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\ru\DevExpress.DataAccess.v21.2.UI.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\de\DevExpress.Office.v21.2.Core.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\es\DevExpress.Office.v21.2.Core.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\ja\DevExpress.Office.v21.2.Core.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\ru\DevExpress.Office.v21.2.Core.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\de\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\es\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\ja\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\ru\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\de\DevExpress.PivotGrid.v21.2.Core.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\es\DevExpress.PivotGrid.v21.2.Core.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\ja\DevExpress.PivotGrid.v21.2.Core.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\ru\DevExpress.PivotGrid.v21.2.Core.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\de\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\es\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\ja\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\ru\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\de\DevExpress.Utils.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\es\DevExpress.Utils.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\ja\DevExpress.Utils.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\ru\DevExpress.Utils.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\de\DevExpress.Utils.v21.2.UI.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\es\DevExpress.Utils.v21.2.UI.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\ja\DevExpress.Utils.v21.2.UI.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\ru\DevExpress.Utils.v21.2.UI.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\de\DevExpress.Web.Resources.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\es\DevExpress.Web.Resources.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\ja\DevExpress.Web.Resources.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\ru\DevExpress.Web.Resources.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\de\DevExpress.Xpo.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\es\DevExpress.Xpo.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\ja\DevExpress.Xpo.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\ru\DevExpress.Xpo.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\de\DevExpress.XtraBars.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\es\DevExpress.XtraBars.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\ja\DevExpress.XtraBars.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\ru\DevExpress.XtraBars.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\de\DevExpress.XtraCharts.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\es\DevExpress.XtraCharts.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\ja\DevExpress.XtraCharts.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\ru\DevExpress.XtraCharts.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\de\DevExpress.XtraCharts.v21.2.Wizard.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\es\DevExpress.XtraCharts.v21.2.Wizard.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\ja\DevExpress.XtraCharts.v21.2.Wizard.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\ru\DevExpress.XtraCharts.v21.2.Wizard.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\de\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\es\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\ja\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\ru\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\de\DevExpress.XtraGauges.v21.2.Core.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\es\DevExpress.XtraGauges.v21.2.Core.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\ja\DevExpress.XtraGauges.v21.2.Core.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\ru\DevExpress.XtraGauges.v21.2.Core.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\de\DevExpress.XtraGrid.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\es\DevExpress.XtraGrid.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\ja\DevExpress.XtraGrid.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\ru\DevExpress.XtraGrid.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\de\DevExpress.XtraLayout.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\es\DevExpress.XtraLayout.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\ja\DevExpress.XtraLayout.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\ru\DevExpress.XtraLayout.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\de\DevExpress.XtraNavBar.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\es\DevExpress.XtraNavBar.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\ja\DevExpress.XtraNavBar.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\ru\DevExpress.XtraNavBar.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\de\DevExpress.XtraPivotGrid.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\es\DevExpress.XtraPivotGrid.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\ja\DevExpress.XtraPivotGrid.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\ru\DevExpress.XtraPivotGrid.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\de\DevExpress.XtraPrinting.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\es\DevExpress.XtraPrinting.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\ja\DevExpress.XtraPrinting.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\ru\DevExpress.XtraPrinting.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\de\DevExpress.XtraReports.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\es\DevExpress.XtraReports.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\ja\DevExpress.XtraReports.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\ru\DevExpress.XtraReports.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\de\DevExpress.XtraReports.v21.2.Extensions.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\es\DevExpress.XtraReports.v21.2.Extensions.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\ja\DevExpress.XtraReports.v21.2.Extensions.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\ru\DevExpress.XtraReports.v21.2.Extensions.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\de\DevExpress.XtraReports.v21.2.Web.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\es\DevExpress.XtraReports.v21.2.Web.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\ja\DevExpress.XtraReports.v21.2.Web.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\ru\DevExpress.XtraReports.v21.2.Web.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\de\DevExpress.XtraRichEdit.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\es\DevExpress.XtraRichEdit.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\ja\DevExpress.XtraRichEdit.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\ru\DevExpress.XtraRichEdit.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\de\DevExpress.XtraTreeList.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\es\DevExpress.XtraTreeList.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\ja\DevExpress.XtraTreeList.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\ru\DevExpress.XtraTreeList.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\de\DevExpress.XtraVerticalGrid.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\es\DevExpress.XtraVerticalGrid.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\ja\DevExpress.XtraVerticalGrid.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\ru\DevExpress.XtraVerticalGrid.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\de\DevExpress.Data.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\es\DevExpress.Data.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\ja\DevExpress.Data.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\ru\DevExpress.Data.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\de\DevExpress.RichEdit.v21.2.Core.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\es\DevExpress.RichEdit.v21.2.Core.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\ja\DevExpress.RichEdit.v21.2.Core.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\ru\DevExpress.RichEdit.v21.2.Core.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\de\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\es\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\ja\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\ru\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\de\DevExpress.Web.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\es\DevExpress.Web.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\ja\DevExpress.Web.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\ru\DevExpress.Web.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\de\DevExpress.XtraScheduler.v21.2.Core.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\es\DevExpress.XtraScheduler.v21.2.Core.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\ja\DevExpress.XtraScheduler.v21.2.Core.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\ru\DevExpress.XtraScheduler.v21.2.Core.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\de\DevExpress.Web.ASPxScheduler.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\es\DevExpress.Web.ASPxScheduler.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\ja\DevExpress.Web.ASPxScheduler.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\ru\DevExpress.Web.ASPxScheduler.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\de\DevExpress.Diagram.v21.2.Core.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\es\DevExpress.Diagram.v21.2.Core.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\ja\DevExpress.Diagram.v21.2.Core.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\ru\DevExpress.Diagram.v21.2.Core.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\de\DevExpress.Web.ASPxHtmlEditor.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\es\DevExpress.Web.ASPxHtmlEditor.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\ja\DevExpress.Web.ASPxHtmlEditor.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\ru\DevExpress.Web.ASPxHtmlEditor.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\de\DevExpress.Web.ASPxDiagram.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\es\DevExpress.Web.ASPxDiagram.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\ja\DevExpress.Web.ASPxDiagram.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\ru\DevExpress.Web.ASPxDiagram.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\de\DevExpress.Web.ASPxGantt.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\es\DevExpress.Web.ASPxGantt.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\ja\DevExpress.Web.ASPxGantt.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\ru\DevExpress.Web.ASPxGantt.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\de\DevExpress.Web.ASPxTreeList.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\es\DevExpress.Web.ASPxTreeList.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\ja\DevExpress.Web.ASPxTreeList.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\ru\DevExpress.Web.ASPxTreeList.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\de\DevExpress.Web.ASPxSpellChecker.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\es\DevExpress.Web.ASPxSpellChecker.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\ja\DevExpress.Web.ASPxSpellChecker.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\ru\DevExpress.Web.ASPxSpellChecker.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\de\DevExpress.Web.ASPxRichEdit.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\es\DevExpress.Web.ASPxRichEdit.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\ja\DevExpress.Web.ASPxRichEdit.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\ru\DevExpress.Web.ASPxRichEdit.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\de\DevExpress.Web.ASPxSpreadsheet.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\es\DevExpress.Web.ASPxSpreadsheet.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\ja\DevExpress.Web.ASPxSpreadsheet.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\ru\DevExpress.Web.ASPxSpreadsheet.v21.2.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\de\DevExpress.Spreadsheet.v21.2.Core.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\es\DevExpress.Spreadsheet.v21.2.Core.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\ja\DevExpress.Spreadsheet.v21.2.Core.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\bin\ru\DevExpress.Spreadsheet.v21.2.Core.resources.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\obj\Release\PREDJL.csproj.AssemblyReference.cache
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\obj\Release\PREDJL.Properties.Resources.resources
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\obj\Release\PREDJL.Reportes.Comprobante.resources
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\obj\Release\PREDJL.Reportes.XtraReport1.resources
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\obj\Release\PREDJL.csproj.GenerateResource.cache
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\obj\Release\PREDJL.dll.licenses
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\obj\Release\PREDJL.csproj.CoreCompileInputs.cache
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\obj\Release\PREDJL.csproj.Up2Date
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\obj\Release\PREDJL.dll
+C:\Users\lgarcia\Desktop\PRESDJL\PREDJL\obj\Release\PREDJL.pdb

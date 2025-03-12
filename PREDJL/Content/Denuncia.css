@@ -1,0 +1,304 @@
+﻿/*--------------------------------------------------------------------- 
+import Fonts -
+--------------------------------------------------------------------*/
+
+/*@import url('https://fonts.googleapis.com/css?family=Poppins:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i');
+@import url('https://fonts.googleapis.com/css?family=Roboto:300,400,500,700,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Sen:wght@400;700;800&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Raleway:400,500,600,700,800,900&display=swap');*/
+/*--------------------------------------------------------------------- 
+import Files 
+---------------------------------------------------------------------*/
+
+/*@import url(normalize.css);
+@import url(icomoon.css);
+@import url(font-awesome.min.css);
+@import url(nice-select.css);*/
+
+body {
+}
+
+.formLayout {
+    max-width: 1000px;
+    margin: auto;
+    background-color: white;
+    border: 2px solid #E1E1E1;
+    border-radius: 10px;
+    box-shadow: 0 0 3px 3px #E1E1E1;
+}
+
+.dropdown-limit {
+    max-width: 200px; /* Set your desired width */
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+
+
+/*.popup {
+    max-width: 1000px;
+    margin: auto 0px auto auto;
+    background-color: white;
+    border: 2px solid #E1E1E1;
+    border-radius: 10px !important;
+    box-shadow: 0 0 3px 3px #E1E1E1;
+}*/
+.swal2-container {
+    z-index: 20000 !important; /* Asegúrate de que sea mayor que el z-index del popup */
+}
+
+.dx-popup {
+    z-index: 10000 !important; /* Ajusta esto según el valor adecuado para tu popup */
+}
+.popup {
+    width: 100%;
+    height: 80%;
+    background-color: white;
+    border: 2px solid #E1E1E1;
+    border-radius: 10px !important;
+    box-shadow: 0 0 3px 3px #E1E1E1;
+}
+
+/*.popup {
+    max-width: 400px;
+    width: auto;*/ /* Ajusta el ancho al 80% del ancho de la ventana de visualización */
+    /*height: 90vh;*/ /* Ajusta la altura al 70% de la altura de la ventana de visualización */
+    /*background-color: white;
+    border: 2px solid #E1E1E1;
+    border-radius: 10px !important;
+    box-shadow: 0 0 3px 3px #E1E1E1;*/
+    /*position: fixed;*/
+    /*overflow: auto;
+}*/
+.popup1 {
+    width: auto;
+    height: auto;
+    background-color: white;
+    border: 2px solid #E1E1E1;
+    border-radius: 10px !important;
+    box-shadow: 0 0 3px 3px #E1E1E1;
+}
+
+
+
+
+
+/*@media only screen and (max-width: 600px) {
+    .popup {
+        width: 300px !important;
+        height: 700px !important;
+    
+    }
+
+        .popup .dx-justification {
+            padding: 10px !important;
+            font-size: 14px !important;
+        }
+
+        .popup .btn {
+            width: 100% !important;
+            font-size: 16px !important;
+        }
+}*/
+
+/*@media only screen and (min-width: 601px) and (max-width: 1024px) {
+    .popup {
+        width: 70% !important;
+        height: auto !important;
+        max-height: 80% !important;
+    }
+
+        .popup .dx-justification {
+            padding: 20px !important;
+            font-size: 16px !important;
+        }
+
+        .popup .btn {
+            width: auto !important;
+            font-size: 18px !important;
+        }
+
+    popup2 {
+        width: 100%;
+        height: 80%;
+        background-color: white;
+        border: 2px solid #E1E1E1;
+        border-radius: 10px !important;
+        box-shadow: 0 0 3px 3px #E1E1E1;
+    }
+
+    .style dxpc-content {
+        overflow: hidden scroll;
+        display: block;
+        height: 40vh !important;
+        width: 308px;
+    }
+}
+
+@media only screen and (min-width: 1025px) {
+    .popup {
+        width: 50% !important;
+        height: auto !important;
+        max-height: 80% !important;
+    }
+
+        .popup .dx-justification {
+            padding: 30px !important;
+            font-size: 18px !important;
+        }
+
+        .popup .btn {
+            width: auto !important;
+            font-size: 18px !important;
+        }
+}
+*/
+
+/*@media (max-width: 768px) {
+    .headerpopup {
+        min-width: 90% !important;
+        min-height: auto !important;
+        width: 90% !important;
+        height: auto !important;
+        background-color: white;
+        border: 2px solid #E1E1E1;
+        border-radius: 10px !important;
+    }
+}
+
+@media (max-width: 480px) {
+    .headerpopup {
+        min-width: 100% !important;
+        min-height: auto !important;
+        width: 100% !important;
+        height: auto !important;
+        background-color: white;
+        border: 2px solid #E1E1E1;
+        border-radius: 10px !important;
+    }
+}*/
+
+
+/*@media (max-width: 768px) {
+    .dx-justification {
+        min-width: 90% !important;
+        min-height: auto !important;
+        width: 90% !important;
+        height: auto !important;
+    }
+}*/
+/*
+@media (max-width: 480px) {
+
+
+    .dx-justification {
+        min-width: 100% !important;
+        min-height: auto !important;
+        width: 100% !important;
+        height: auto !important;
+    }
+
+    .popup {
+        width: 250px !important;
+        height: 700px !important;
+    }
+}*/
+.dx-justification {
+    width: 100%;
+    text-align: center;
+
+}
+
+.btn {
+    width: 100%;
+    margin-top: 10px;
+    -webkit-border-radius: 35px;
+    -moz-border-radius: 35px;
+    border-radius: 35px;
+    background: #0072C6;
+    /*background: -webkit-linear-gradient(to right, #cc5333, #1F497d);*/
+}
+
+.headerpopup {
+    max-width: 1000px;
+    margin: auto 0px auto auto;
+    background-color: white;
+    border: 2px solid #E1E1E1;
+    border-radius: 10px !important;
+}
+
+
+/*.btn {
+    -webkit-border-radius: 35px;
+    -moz-border-radius: 35px;
+    border-radius: 35px;
+    background: #0072C6;
+    background: -webkit-linear-gradient(to right, #cc5333, #1F497d);
+}*/
+
+.img-responsive {
+    max-width: 100%;
+    height: auto;
+}
+
+.auto-style2 {
+             text-align: center;
+             height: 23px;
+}  
+.auto-style3 {
+             height: 23px;
+         }
+
+
+.text-center {
+    text-align: center;
+}
+
+.mt-3 {
+    margin-top: 1rem;
+}
+
+.font-weight-bold {
+    font-weight: bold;
+}
+
+.fa-4x {
+    font-size: 4em;
+}
+
+.attention-text {
+    font-size: 1.5em;
+    font-weight: bold;
+}
+
+html, body {
+    height: 100%;
+    margin: 0;
+}
+
+/*.main-layout {*/
+    /*margin-top: 90px;*/
+    /* background: #1F497D;
+    background: -webkit-linear-gradient(to right, #cc5333, #1F497D);
+    background: linear-gradient(to right, #cc5333, #1F497D);*/
+    /*background-image: url('TSC/color1_logo.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;*/
+    /*background-image: url('TSC/color1_logo.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: auto;*/
+/*    min-height: 300px;*/
+    /*display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}*/
+
+.content {
+    flex: 1;
+}
+
+

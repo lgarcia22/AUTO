@@ -1,0 +1,1235 @@
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="Denuncia.aspx.cs" Inherits="SIADEP.Denuncia" %>
+
+<%@ Register Assembly="DevExpress.XtraReports.v22.1.Web.WebForms, Version=22.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" Namespace="DevExpress.XtraReports.Web" TagPrefix="dx" %>
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+   <head>
+      <!-- basic -->
+      <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+       <meta name="viewport" content="width=device-width, user-scalable=no, maximum-scale=1.0, minimum-scale=1.0" />
+      <!-- mobile metas -->
+      <meta name="viewport" content="width=device-width, initial-scale=1"/>
+      <meta name="viewport" content="initial-scale=1, maximum-scale=1"/>
+      <!-- site metas -->
+      <title>Denuncia</title>
+      <meta name="keywords" content=""/>
+      <meta name="description" content=""/>
+      <meta name="author" content=""/>
+      <!-- bootstrap css -->
+      <link href="Content/css/bootstrap.min.css" rel="stylesheet" />
+      <!-- style css -->
+      <%-- <link href="css/style.css" rel="stylesheet" />--%>
+       <link href="Content/Form.css" rel="stylesheet" />
+       <link href="Content/Denuncia.css" rel="stylesheet" />
+      <%-- <link rel="stylesheet" type="text/css" href='<%# ResolveUrl("~/Content/GridView.css") %>' />--%>
+   
+      <!-- Responsive-->
+       <link href="Content/css/responsive.css" rel="stylesheet" />
+      <!-- fevicon -->
+      <%--<link rel="icon" href="images/fevicon.png" type="image/gif" />--%>
+      <!-- Tweaks for older IEs-->
+       <link href="Content/css/owl.carousel.min.css" rel="stylesheet" />
+      <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css"/>
+      <%--[if lt IE 9]>--%>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+  <%--     <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>--%>
+      <%-- <script type="application/javascript" src="https://api.ipify.org?format=jsonp&callback=getIP"></script>--%>
+       <script src="Content/Denuncia.js"></script>
+       <script>
+           //var RTCPeerConnection = /*window.RTCPeerConnection ||*/
+           //    window.webkitRTCPeerConnection || window.mozRTCPeerConnection;
+
+           //if (RTCPeerConnection) (function () {
+           //    var rtc = new RTCPeerConnection({ iceServers: [] });
+           //    if (1 || window.mozRTCPeerConnection) {
+           //        rtc.createDataChannel('', { reliable: false });
+           //    };
+
+           //    rtc.onicecandidate = function (evt) {
+
+           //        if (evt.candidate)
+           //            grepSDP("a=" + evt.candidate.candidate);
+           //    };
+           //    rtc.createOffer(function (offerDesc) {
+           //        grepSDP(offerDesc.sdp);
+           //        rtc.setLocalDescription(offerDesc);
+           //    }, function (e) { console.warn("offer failed", e); });
+
+
+           //    var addrs = Object.create(null);
+           //    addrs["0.0.0.0"] = false;
+           //    function updateDisplay(newAddr) {
+           //        if (newAddr in addrs) return;
+           //        else addrs[newAddr] = true;
+           //        var displayAddrs = Object.keys(addrs).filter(function
+           //            (k) { return addrs[k]; });
+           //        document.getElementById('list').textContent =
+           //            displayAddrs.join(" or perhaps ") || "n/a";
+           //    }
+
+           //    function grepSDP(sdp) {
+           //        var hosts = [];
+           //        sdp.split('\r\n').forEach(function (line) {
+           //            if (~line.indexOf("a=candidate")) {
+           //                var parts = line.split(' '),
+           //                    addr = parts[4],
+           //                    type = parts[7];
+           //                if (type === 'host') updateDisplay(addr);
+           //            } else if (~line.indexOf("c=")) {
+           //                var parts = line.split(' '),
+           //                    addr = parts[2];
+           //                updateDisplay(addr);
+           //            }
+           //        });
+           //    }
+           //})(); else {
+           //    document.getElementById('list').innerHTML = "<code>ifconfig| grep inet | grep -v inet6 | cut -d\" \" -f2 | tail -n1</code>";
+           //    document.getElementById('list').nextSibling.textContent = "In Chrome and Firefox your IP should display automatically, by the power of WebRTCskull.";
+
+           //}
+
+           ////function getIP(json) {
+               
+           ////    document.write("My public IP address is: ", json.ip);
+           ////}
+
+       </script>
+       <script>
+
+           function ConfirmDemo() {
+               //Ingresamos un mensaje
+               var mensaje = confirm("¿Te gusta Desarrollar con JavaScript?");
+               //Verificamos si el usuario acepto el mensaje
+               if (mensaje) {
+                   alert("¡Gracias por confirmar!");
+               }
+               //Verificamos si el usuario denegó el mensaje
+               else {
+                   alert("¡Haz denegado el mensaje!");
+               }
+           }
+
+       </script>
+
+        <script type="text/javascript">
+        //para guardar los docuementos
+        function Click_Add_Dtos(s, e) {
+            ASPxCallback_Guardar_Dctos.PerformCallback();
+            ASPxGridView1.PerformCallback();
+
+        }
+
+    
+        function Guardar_Dctos_Complete(s, e) {
+            ASPxGridView1.PerformCallback();
+         /*   alert(e.result);*/
+            fileNameLabel.SetText(null);
+            deleteFileButton.SetVisible(false);
+            AddFileButton.SetVisible(false);
+
+            return;
+        }
+
+            function onFileUploadComplete(s, e) {
+                if (e.callbackData != "") {
+                    fileNameLabel.SetText(e.callbackData);
+                    deleteFileButton.SetVisible(true);
+                    AddFileButton.SetVisible(true);
+                }
+            }
+
+            function onClick(s, e) {
+                callback.PerformCallback(fileNameLabel.GetText());
+            }
+            function onCallbackComplete(s, e) {
+                if (e.result == "OK") {
+                    fileNameLabel.SetText(null);
+                    deleteFileButton.SetVisible(false);
+                    AddFileButton.SetVisible(false);
+                }
+            }
+         
+
+        </script>
+   </head>
+   <!-- body -->
+   <body class="main-layout">
+       <div id="list"></div>
+      <!-- loader  -->
+  <%--  <div class="loader_bg">
+         <div class="loader"><img src="images/loading.gif" alt="#"/></div>
+      </div>--%>
+      <!-- end loader -->
+         <!-- header -->
+         <header class="header-area">
+            <div class="container">
+               <div class="row d_flex">
+                  <div class=" col-md-3">
+                     <div class="logo">
+                        <a href="PrincipalExterna.aspx"><img src="Content/images/logo1.png"/>T<span>SC</span></a>
+                     </div>
+                  </div>
+                  <div class="col-md-9 col-sm-12">
+        
+                    <div class="navbar-area">
+                      <nav class="site-navbar"> 
+                        <ul>
+                         <%-- <li><a class="active" href="PrincipalExterna.aspx">Inicio</a></li>--%>
+                      
+                        </ul>
+                        <button class="nav-toggler">
+                          <span></span>
+                        </button>
+                      </nav>
+                    </div>
+                  </div>
+                </div>
+            </div>
+         </header>
+       <form id="form1" runat="server" >
+            <div class="services">
+        <div class="container">
+          <div class="row">
+            <div class="col-md-12">
+              <div class="titlepage text_align_left">
+                <h2 style="text-align:center">FORMULARIO VIRTUAL DE DENUNCIAS</h2>
+               <%-- <p>tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud</p>--%>
+              </div>
+            </div>
+          </div>
+     <%--       <dx:ASPxCallback ID="callbackcontent1" runat="server" OnCallback="Callbackcontent1_Callback">
+        </dx:ASPxCallback>--%>
+            <asp:scriptmanager id="ScriptManager1" runat="server" />
+            <asp:SqlDataSource ID="SqlDataSource_Muni" runat="server" ConnectionString="<%$ ConnectionStrings:DB_PARTICIPACIONConnectionString %>"
+                SelectCommand="SELECT M.Nombre, M.ID_Municipio, M.Codigo FROM tblDepartamentos AS D INNER JOIN tblMunicipios AS M ON D.ID_Departamento = M.ID_Departamento WHERE (D.ID_Departamento = @CountryName) ORDER BY M.Nombre">
+            <SelectParameters>
+                <asp:SessionParameter Name="CountryName" SessionField="CountryName" />
+            </SelectParameters>
+         </asp:SqlDataSource>
+
+        <asp:SqlDataSource ID="SqlDataSourcet_Tipo_Denuncia" runat="server" ConnectionString="<%$ ConnectionStrings:DB_PARTICIPACIONConnectionString %>" SelectCommand="SELECT [ID_TipoDenuncia], [Nombre] FROM [tblTipoDenuncia]"></asp:SqlDataSource>
+
+            <asp:SqlDataSource runat="server" ConnectionString="<%$ ConnectionStrings:DB_PARTICIPACIONConnectionString %>" SelectCommand="SELECT [ID_Departamento], [Nombre], [Codigo] FROM [tblDepartamentos]" ID="SqlDataSource_Deptos"></asp:SqlDataSource>
+
+        
+
+        <asp:SqlDataSource ID="SqlDataSource_Instituciones" runat="server" ConnectionString="<%$ ConnectionStrings:DB_PARTICIPACIONConnectionString %>" SelectCommand="SELECT [Id_Institucion], [Nombre], [Sigla] FROM [tblCatalogoInst]"></asp:SqlDataSource>
+
+         
+            <asp:SqlDataSource ID="SqlDataSource_PresentacionDenuncia" runat="server" ConnectionString="<%$ ConnectionStrings:DB_PARTICIPACIONConnectionString %>" SelectCommand="SELECT [Id_PresentacionDenuncia], [Presentacion_Denuncia] FROM [tblPresentacion_Denuncia]"></asp:SqlDataSource>
+
+         
+        <asp:PlaceHolder ID="phDenunciado" runat="server">
+           <%-- <div style="text-align:center">     
+                                                        <br />
+                                                    <dx:ASPxHyperLink runat="server" NavigateUrl="~/Default.aspx" Text="Menù Principal"  />
+                                                    </div>--%>
+        <dx:ASPxFormLayout runat="server" ID="formDenuncia" CssClass="formLayout">
+              <SettingsAdaptivity AdaptivityMode="SingleColumnWindowLimit" SwitchToSingleColumnAtWindowInnerWidth="700" />
+            <Items>
+                <dx:LayoutItem ShowCaption="False" HorizontalAlign="Right">
+                            <LayoutItemNestedControlCollection>
+                                <dx:LayoutItemNestedControlContainer>
+                                    <table>
+                                        <tr>
+                                           <td>
+                                              DCSD-TSC-001
+                                           </td>
+                                        </tr>
+                                    </table>
+                                </dx:LayoutItemNestedControlContainer>
+                            </LayoutItemNestedControlCollection>
+                  </dx:LayoutItem>
+                  <%--  <dx:LayoutItem ShowCaption="False" ColSpan="1" HorizontalAlign="Center"><LayoutItemNestedControlCollection>
+                        <dx:LayoutItemNestedControlContainer runat="server">
+                            <table>
+                             <tr>
+                               <td style="font-size:18px;">
+                                <strong> Los campos marcados con * son obligatorios </strong> 
+                               </td>
+                             </tr>
+                            </table>
+                        </dx:LayoutItemNestedControlContainer>
+                    </LayoutItemNestedControlCollection>
+                  </dx:LayoutItem>         --%>    
+                <dx:LayoutGroup Caption="1. DATOS DE FUNCIONARIOS(AS) O EMPLEADOS(AS) A DENUNCIAR *" ColCount="1" GroupBoxDecoration="HeadingLine" UseDefaultPaddings="false" Paddings-PaddingTop="10">
+                   <GroupBoxStyle>
+                        <Caption Font-Bold="true" Font-Size="15" />
+                    </GroupBoxStyle>
+                     <Items>
+                        <%-- <dx:LayoutItem Caption="Denuncia Presentada Por" ColSpan="1">
+                            <LayoutItemNestedControlCollection>
+                                <dx:LayoutItemNestedControlContainer runat="server">
+                                    <dx:ASPxComboBox runat="server" SelectedIndex="-1" ID="CmbPresentacionDenuncia" DataSourceID="SqlDataSource_PresentacionDenuncia" TextField="Presentacion_Denuncia" ValueField="Id_PresentacionDenuncia" NullText="Seleccione Presentacion de la Denuncia">
+                                        <ValidationSettings RequiredField-IsRequired="true" Display="Dynamic" ErrorTextPosition="Bottom" SetFocusOnError="True">
+                                             <RequiredField ErrorText="La Presentacion es Requerida." IsRequired="true" />
+                                        </ValidationSettings>
+                                    </dx:ASPxComboBox>
+                                </dx:LayoutItemNestedControlContainer>
+                            </LayoutItemNestedControlCollection>
+                        </dx:LayoutItem>--%>
+                        <dx:LayoutItem ColSpan="1" Caption="Nombre">
+                            <LayoutItemNestedControlCollection>
+                                <dx:LayoutItemNestedControlContainer runat="server">
+           <%--                         <dx:ASPxLabel ID="LBIP" runat="server"></dx:ASPxLabel>
+             <dx:ASPxLabel ID="LBHOSTNAME" runat="server"></dx:ASPxLabel>
+             <dx:ASPxLabel ID="LBPROXY" runat="server"></dx:ASPxLabel>--%>
+                                    <dx:ASPxTextBox ID="tbNombre" runat="server" NullText="Nombre de Empleado(os) Implicados">
+                                        
+                                         <ValidationSettings RequiredField-IsRequired="true" Display="Dynamic" ErrorTextPosition="Bottom" SetFocusOnError="True">
+                                             <RequiredField ErrorText="El Nombre es requerido." IsRequired="true" />
+                                        
+                                        </ValidationSettings>
+                                    </dx:ASPxTextBox>
+                                </dx:LayoutItemNestedControlContainer>
+                            </LayoutItemNestedControlCollection>
+                        </dx:LayoutItem>
+                        <dx:LayoutItem ColSpan="1" Caption="Departamento">
+                            <LayoutItemNestedControlCollection>
+                                <dx:LayoutItemNestedControlContainer runat="server">
+                                    <dx:ASPxComboBox runat="server" ID="CmbCountry" ClientInstanceName="CmbCountry" DataSourceID="SqlDataSource_Deptos" TextField="Nombre" ValueField="ID_Departamento" NullText="Seleccione el Departamento">
+                                            
+                                        <ClientSideEvents SelectedIndexChanged="function(s,e){OnCountryChanged(s.GetSelectedItem().value.toString());}"/>
+               <%--                         <Columns>
+                    <dx:ListBoxColumn FieldName="Codigo" />
+                    <dx:ListBoxColumn FieldName="Nombre" />
+                </Columns>--%>
+                                       <ValidationSettings RequiredField-IsRequired="true" Display="Dynamic" ErrorTextPosition="Bottom" SetFocusOnError="True">
+                                             <RequiredField ErrorText="El Departamento es requerido." IsRequired="true" />
+                                        </ValidationSettings>
+                                   </dx:ASPxComboBox> 
+                                </dx:LayoutItemNestedControlContainer>
+                            </LayoutItemNestedControlCollection>
+                        </dx:LayoutItem>
+                        <dx:LayoutItem ColSpan="1" Caption="Municipio">
+                            <LayoutItemNestedControlCollection>
+                                <dx:LayoutItemNestedControlContainer runat="server">
+                                   <dx:ASPxComboBox runat="server" ID="CmbCity" ClientInstanceName="cmbCity" OnCallback="CmbCity_Callback" TextField="Nombre" ValueField="ID_Municipio" DataSourceID="SqlDataSource_Muni" NullText="Seleccione el Municipio">
+                                         <ValidationSettings RequiredField-IsRequired="true" Display="Dynamic" ErrorTextPosition="Bottom" SetFocusOnError="True">
+                                             <RequiredField ErrorText="El Municipio es requerido." IsRequired="true" />
+                                        </ValidationSettings>
+                                    </dx:ASPxComboBox>
+                                </dx:LayoutItemNestedControlContainer>
+                            </LayoutItemNestedControlCollection>
+                        </dx:LayoutItem>
+                       <%-- <dx:LayoutItem ColSpan="1" Caption="Dirección Domiciliaria">
+                            <LayoutItemNestedControlCollection>
+                                <dx:LayoutItemNestedControlContainer runat="server">
+                                    <dx:ASPxTextBox ID="tbDireccionDenunciado" runat="server" NullText="Dirección Domiciliaria">
+                                    </dx:ASPxTextBox>
+                                </dx:LayoutItemNestedControlContainer>
+                            </LayoutItemNestedControlCollection>
+                        </dx:LayoutItem>--%>
+                       <%-- <dx:LayoutItem Caption="Teléfono" ColSpan="1">
+                            <LayoutItemNestedControlCollection>
+                                <dx:LayoutItemNestedControlContainer runat="server">
+                                    <dx:ASPxTextBox ID="tbTelefono" runat="server" MaskSettings-Mask="0000 0000" NullText="Teléfono" MaskSettings-PromptChar=" ">
+                                    </dx:ASPxTextBox>
+                                </dx:LayoutItemNestedControlContainer>
+                            </LayoutItemNestedControlCollection>
+                        </dx:LayoutItem>--%>
+                        <dx:LayoutItem Caption="Cargo si lo conoce" ColSpan="1">
+                            <LayoutItemNestedControlCollection>
+                                <dx:LayoutItemNestedControlContainer runat="server">
+                                    <dx:ASPxTextBox ID="tbOcupacion" runat="server" NullText="Cargo del Implicado">
+                                    </dx:ASPxTextBox>
+                                </dx:LayoutItemNestedControlContainer>
+                            </LayoutItemNestedControlCollection>
+                        </dx:LayoutItem>
+                        <dx:LayoutItem Caption="Institución Hechos" ColSpan="1">
+                            <LayoutItemNestedControlCollection>
+                                <dx:LayoutItemNestedControlContainer runat="server">
+                                    <%--<dx:ASPxComboBox runat="server" SelectedIndex="-1" ID="cmbInstituciones" DataSourceID="SqlDataSource_Instituciones" TextField="Nombre" ValueField="Id_Institucion" NullText="Seleccione Tipo de Denuncia">
+                                        <ValidationSettings RequiredField-IsRequired="true" Display="Dynamic" ErrorTextPosition="Bottom" SetFocusOnError="True">
+                                             <RequiredField ErrorText="La Institución es Requerida." IsRequired="true" />
+                                        </ValidationSettings>
+                                    </dx:ASPxComboBox>--%>
+                                    <dx:ASPxTextBox ID="tbInstituciones" runat="server" NullText="Institución de los Hechos">
+                                        <ValidationSettings RequiredField-IsRequired="true" Display="Dynamic" ErrorTextPosition="Bottom" SetFocusOnError="True">
+                                             <RequiredField ErrorText="La Institución es Requerida." IsRequired="true" />
+                                        </ValidationSettings>
+                                    </dx:ASPxTextBox>
+                                </dx:LayoutItemNestedControlContainer>
+                            </LayoutItemNestedControlCollection>
+                        </dx:LayoutItem>
+                        <dx:LayoutItem Caption="Dirección Institución" ColSpan="1">
+                            <LayoutItemNestedControlCollection>
+                                <dx:LayoutItemNestedControlContainer runat="server">
+                                    <dx:ASPxMemo ID="mmDireccion1" runat="server" Rows="3" HelpTextSettings-Position="Top" NullText="Dirección de La Institución" > 
+                                    </dx:ASPxMemo>
+                                </dx:LayoutItemNestedControlContainer>
+                            </LayoutItemNestedControlCollection>
+                        </dx:LayoutItem>
+                        <dx:LayoutItem Caption="Teléfono Institución" ColSpan="1">
+                            <LayoutItemNestedControlCollection>
+                                <dx:LayoutItemNestedControlContainer runat="server">
+                                    <dx:ASPxTextBox ID="tbTelefonoI" runat="server" NullText="Teléfono Institución" MaskSettings-Mask="00000000" MaskSettings-ErrorText="El Teléfono es Requerido.">
+                                        <ValidationSettings RequiredField-IsRequired="true" Display="Dynamic" ErrorTextPosition="Bottom" SetFocusOnError="True">
+                                             <RequiredField  IsRequired="true" />
+                                        </ValidationSettings>
+                                    </dx:ASPxTextBox>
+                                </dx:LayoutItemNestedControlContainer>
+                            </LayoutItemNestedControlCollection>
+                        </dx:LayoutItem>
+                        <dx:LayoutItem Caption="Tipo de Denuncia" ColSpan="1">
+                            <LayoutItemNestedControlCollection>
+                                <dx:LayoutItemNestedControlContainer runat="server">
+                                    <dx:ASPxComboBox runat="server" SelectedIndex="-1" ID="cmbTipoDenuncias" DataSourceID="SqlDataSourcet_Tipo_Denuncia" TextField="Nombre" ValueField="ID_TipoDenuncia" NullText="Seleccione Tipo de Denuncia">
+                                        <ValidationSettings RequiredField-IsRequired="true" Display="Dynamic" ErrorTextPosition="Bottom" SetFocusOnError="True">
+                                             <RequiredField ErrorText="El Tipo de Denuncia es Requerido." IsRequired="true" />
+                                        </ValidationSettings>
+                                    </dx:ASPxComboBox>
+                                </dx:LayoutItemNestedControlContainer>
+                            </LayoutItemNestedControlCollection>
+                        </dx:LayoutItem>
+                        <dx:LayoutItem Caption="Monto Aproximado" ColSpan="1">
+                            <LayoutItemNestedControlCollection>
+                                <dx:LayoutItemNestedControlContainer runat="server">
+
+                                    <dx:ASPxTextBox ID="tbMontoR" runat="server" NullText="Monto Aproximado" ToolTip="Monto Aproximado">
+                                        <%--<MaskSettings Mask="$ <0..9999999g>.<00..99>" IncludeLiterals="DecimalSymbol" />--%>
+                                        </dx:ASPxTextBox>
+                                </dx:LayoutItemNestedControlContainer>
+                            </LayoutItemNestedControlCollection>
+                        </dx:LayoutItem>
+                    </Items>
+                </dx:LayoutGroup>
+                <dx:LayoutGroup Caption="2. DESCRIPCIÓN DE LOS HECHOS QUE DENUNCIA * " ColCount="1" GroupBoxDecoration="HeadingLine" UseDefaultPaddings="false" Paddings-PaddingTop="10">
+                   <GroupBoxStyle>
+                        <Caption Font-Bold="true" Font-Size="15" />
+                    </GroupBoxStyle>
+                     <Items>
+                        <dx:LayoutItem Caption="Escriba a continuación:" ColSpan="1" CaptionSettings-Location="Top">
+                            <LayoutItemNestedControlCollection>
+                                <dx:LayoutItemNestedControlContainer runat="server">
+                                    <dx:ASPxMemo ID="mmHechos" runat="server" Rows="8" HelpTextSettings-Position="Top" NullText="Qué, Quién, Cómo, Dónde, Por qué, Nombres, Circunstancias, Lugares, Fechas y objeto de la denuncia." >
+                                     <ValidationSettings RequiredField-IsRequired="true" Display="Dynamic" ErrorTextPosition="Bottom" SetFocusOnError="True">
+                                             <RequiredField ErrorText="El Campo es Requerido." IsRequired="true" />
+                                        </ValidationSettings>
+                                    </dx:ASPxMemo>
+                                </dx:LayoutItemNestedControlContainer>
+                            </LayoutItemNestedControlCollection>
+                        </dx:LayoutItem>
+                    </Items>
+                </dx:LayoutGroup>
+                <dx:LayoutGroup Caption="3. PRUEBAS O DOCUMENTOS QUE SUSTENTEN LOS HECHOS QUE DENUNCIA * " ColCount="1" GroupBoxDecoration="HeadingLine" UseDefaultPaddings="false" Paddings-PaddingTop="10" >
+                   <GroupBoxStyle>
+                        <Caption Font-Bold="true" Font-Size="15" />
+                    </GroupBoxStyle>
+                     <Items>
+                        <dx:LayoutItem Caption="" ColSpan="1" CaptionSettings-Location="Top">
+                            <LayoutItemNestedControlCollection>
+                                <dx:LayoutItemNestedControlContainer runat="server">
+                                    <dx:ASPxMemo ID="mmPruebas" runat="server" Rows="8" HelpTextSettings-Position="Top" NullText="Si no dispone de ellos, señale el lugar donde se encuentran o puedan obtenerse.">
+                                    </dx:ASPxMemo>
+                                </dx:LayoutItemNestedControlContainer>
+                            </LayoutItemNestedControlCollection>
+                        </dx:LayoutItem>
+                    </Items>
+                </dx:LayoutGroup>
+            </Items>
+             <Items>
+            <dx:LayoutItem ShowCaption="False" ColSpan="1" HorizontalAlign="Center"><LayoutItemNestedControlCollection>
+                            <dx:LayoutItemNestedControlContainer runat="server">
+                                    <table>
+                                        <tr>
+                                            <td style ="text-align:center" >
+                                                 <div style ="text-align:center" >
+                                                
+                <%--                                <dx:ASPxHyperLink ID="HyperLink" runat="server" OnInit="HyperLink_Init" Text="No hay documentos anexados">
+                                        uppload        </dx:ASPxHyperLink>--%>
+                                                <br />
+                                                <dx:ASPxLabel ID="AllowedTypesLabel" runat="server" Font-Size="Medium" Text="Tipos de archivos permitidos: pdf,jpe,jpeg,jpg,png" />
+                                                <br />
+                                                <dx:ASPxLabel ID="MaxFileSizeLabel" runat="server" Font-Size="Medium" Text="Solo se permite adjuntar como limite 5 archivos con un peso total de 10 MB." ForeColor="Red"/>
+                                                <%--El peso de cada archivo no deberá exceder los 2 MB y--%>
+                                                    <br />
+                                                
+                                                    <dx:ASPxLabel ID="Mens" runat="server" ClientInstanceName="Mens" Font-Size="X-Small">
+                                                </dx:ASPxLabel>
+                                                <br />
+                                                    <br />
+                                                      </div>
+                                                    <div style ="text-align:center" >
+                                                <dx:ASPxUploadControl ID="UploadControl" runat="server" AutoStartUpload="true" Width="280px" NullText="Subir Docs..."  OnFileUploadComplete="UploadControl_FileUploadComplete" ShowProgressPanel="true" UploadMode="Auto">
+                                                <ValidationSettings AllowedFileExtensions=".pdf,.jpe,.jpeg,.jpg,.png" MaxFileSize="104857600" />
+                                                <ClientSideEvents FileUploadComplete="onFileUploadComplete" />
+                                                </dx:ASPxUploadControl>
+                                                     <dx:ASPxLabel ID="ASPxLabel1" runat="server" ClientInstanceName="fileNameLabel" Font-Size="X-Small">
+                                                </dx:ASPxLabel>
+                                               <%-- <dx:ASPxButton ID="DeleteFileButton" runat="server" AutoPostBack="false" ClientInstanceName="deleteFileButton" ClientVisible="false" RenderMode="Link" Text="Eliminar" Font-Size="Small" ForeColor="#CC0000">
+                                                    <ClientSideEvents Click="onClick" />
+                                                </dx:ASPxButton>--%>
+                                                  <%--   <dx:ASPxButton ID="ASPxAddButton" runat="server" AutoPostBack="false" ClientInstanceName="AddFileButton" ClientVisible="false" RenderMode="Link" Text="Guardar" Font-Size="Small">
+                                                         <ClientSideEvents Click="Click_Add_Dtos" />
+                                                     </dx:ASPxButton>--%>
+                                                        <dx:ASPxButton ID="ASPxButton1" runat="server" RenderMode="Link" Text="Eliminar" Font-Size="Small" ForeColor="#CC0000" ClientVisible="false" ClientInstanceName="deleteFileButton" AutoPostBack="false" >
+                                                            <ClientSideEvents Click="onClick" />
+                                                        </dx:ASPxButton>
+                                                      <dx:ASPxButton ID="ASPxButton2" runat="server" Text="Subir" RenderMode="Link" ClientInstanceName="AddFileButton" ClientVisible="false" >
+                                                          <ClientSideEvents Click="Click_Add_Dtos" />
+                                                      </dx:ASPxButton>
+                                                      <br />
+                                                
+                                                <dx:ASPxLabel ID="FileNameLabel" runat="server" ClientInstanceName="fileNameLabel" Font-Size="X-Small">
+                                                </dx:ASPxLabel>
+                                               <%-- <dx:ASPxButton ID="DeleteFileButton" runat="server" AutoPostBack="false" ClientInstanceName="deleteFileButton" ClientVisible="false" RenderMode="Link" Text="Eliminar" Font-Size="Small" ForeColor="#CC0000">
+                                                    <ClientSideEvents Click="onClick" />
+                                                </dx:ASPxButton>--%>
+                                                  <%--   <dx:ASPxButton ID="ASPxAddButton" runat="server" AutoPostBack="false" ClientInstanceName="AddFileButton" ClientVisible="false" RenderMode="Link" Text="Guardar" Font-Size="Small">
+                                                         <ClientSideEvents Click="Click_Add_Dtos" />
+                                                     </dx:ASPxButton>--%>
+                                                        <dx:ASPxButton ID="ASPxDeleteButton" runat="server" RenderMode="Link" Text="Eliminar" Font-Size="Small" ForeColor="#CC0000" ClientVisible="false" ClientInstanceName="deleteFileButton" AutoPostBack="false" >
+                                                            <ClientSideEvents Click="onClick" />
+                                                        </dx:ASPxButton>
+                                                      <dx:ASPxButton ID="ASPxAddButton" runat="server" Text="Subir" RenderMode="Link" ClientInstanceName="AddFileButton" ClientVisible="false" >
+                                                          <ClientSideEvents Click="Click_Add_Dtos" />
+                                                      </dx:ASPxButton>
+                                                      
+                                                      <dx:ASPxCallback ID="ASPxCallback_Guardar_Dctos" runat="server" OnCallback="ASPxCallback_Guardar_Dctos_Callback" ClientInstanceName="ASPxCallback_Guardar_Dctos">
+                                                           
+                                                        <ClientSideEvents CallbackComplete="Guardar_Dctos_Complete" />
+                                                      </dx:ASPxCallback>
+                                                    <dx:ASPxCallback ID="Callback" ClientInstanceName="callback" runat="server" OnCallback="Callback_Callback">
+                                                    <ClientSideEvents CallbackComplete="onCallbackComplete" />
+                                                </dx:ASPxCallback>
+                                                     
+                                                  <br />
+                                                
+                                                <dx:ASPxGridView ID="ASPxGridView1" runat="server" ClientInstanceName="ASPxGridView1" OnCustomCallback="ASPxGridView1_CustomCallback"
+                                                    AutoGenerateColumns="False" DataSourceID="SqlDataSourceFillDoc" KeyFieldName="Fileid" SettingsFilterControl-ViewMode="VisualAndText" SettingsBehavior-ConfirmDelete="True" SettingsText-ConfirmDelete="Esta Seguro(a) que desea Eliminar el Documento.?">
+
+                                                    <Columns>
+                                                        <dx:GridViewCommandColumn ShowDeleteButton="True" VisibleIndex="4" Width="100px" Caption="ACCI&#211;N">
+                                                            <HeaderStyle BackColor="#3498DB" Font-Bold="True" ForeColor="White" HorizontalAlign="Center" />
+                                                            <CellStyle HorizontalAlign="Center" Font-Size="Small"></CellStyle>
+                                                        </dx:GridViewCommandColumn>
+                                                        <dx:GridViewDataTextColumn FieldName="Fileid" VisibleIndex="0" Visible="False">
+                                                            <EditFormSettings Visible="False"></EditFormSettings>
+                                                        </dx:GridViewDataTextColumn>
+
+
+                                                        <dx:GridViewDataTextColumn FieldName="FileName" VisibleIndex="1" Caption="ARCHIVO" Width="100px">
+                                                            <HeaderStyle BackColor="#3498DB" Font-Bold="True" ForeColor="White" HorizontalAlign="Center" />
+                                                            <CellStyle HorizontalAlign="Center" Font-Size="Small"></CellStyle>
+                                                        </dx:GridViewDataTextColumn>
+                                                        <dx:GridViewDataTextColumn FieldName="Fecha" Width="150px" Caption="FECHA" VisibleIndex="3">
+                                                            <HeaderStyle HorizontalAlign="Center" BackColor="#3498DB" Font-Bold="True" ForeColor="White"></HeaderStyle>
+
+                                                            <CellStyle HorizontalAlign="Center" Font-Size="Small"></CellStyle>
+                                                        </dx:GridViewDataTextColumn>
+                                                    </Columns>
+                                                     <SettingsPager PageSize="5" EnableAdaptivity="true">
+                                                    <PageSizeItemSettings Visible="true"></PageSizeItemSettings>
+                                                    </SettingsPager>
+                                                </dx:ASPxGridView>
+                                              </div>
+                                               <%-- <dx:ASPxGridView ID="Gvdoc" runat="server" ClientInstanceName="Gvdoc" OnCustomCallback="Gvdoc_CustomCallback" AutoGenerateColumns="False" DataSourceID="SqlDataSourceFillDoc" KeyFieldName="Fileid" Theme="Office365">
+
+                                                    <Columns>
+                                                        <dx:GridViewCommandColumn ShowDeleteButton="True" VisibleIndex="4" Caption="Acción" Width="100px">
+                                                           <HeaderStyle BackColor="#3498DB" Font-Bold="True" ForeColor="White" HorizontalAlign="Center" />
+                                                            <CellStyle HorizontalAlign="Center" Font-Size="Small"></CellStyle>
+                                                        </dx:GridViewCommandColumn>
+                                                        <dx:GridViewDataTextColumn FieldName="Fileid" ReadOnly="True" VisibleIndex="0" Caption="N°" Width="50px" Visible="False">
+                                                            <EditFormSettings Visible="False"></EditFormSettings>
+                                                            <HeaderStyle BackColor="#3498DB" Font-Bold="True" ForeColor="White" HorizontalAlign="Center" />
+                                                            <CellStyle HorizontalAlign="Center" Font-Size="Small"></CellStyle>
+                                                        </dx:GridViewDataTextColumn>
+                                                        <dx:GridViewDataTextColumn FieldName="FileName" VisibleIndex="1" Caption="Nombre Archivo" Width="100px">
+                                                            <HeaderStyle BackColor="#3498DB" Font-Bold="True" ForeColor="White" HorizontalAlign="Center" />
+                                                            <CellStyle HorizontalAlign="Center" Font-Size="Small"></CellStyle>
+                                                        </dx:GridViewDataTextColumn>
+                                                        <dx:GridViewDataTextColumn FieldName="UploadTime" VisibleIndex="2" Caption="Fecha" Width="150px">
+                                                            <HeaderStyle BackColor="#3498DB" Font-Bold="True" ForeColor="White" HorizontalAlign="Center" />
+                                                            <CellStyle HorizontalAlign="Center" Font-Size="Small"></CellStyle>
+                                                        </dx:GridViewDataTextColumn>
+                                                        <dx:GridViewDataTextColumn FieldName="IdParent" Caption="Parent" Visible="False" VisibleIndex="3"></dx:GridViewDataTextColumn>
+                                                    </Columns>
+                                                    <SettingsPager PageSize="5" EnableAdaptivity="true">
+                                                    <PageSizeItemSettings Visible="true"></PageSizeItemSettings>
+                                                    </SettingsPager>
+                                               </dx:ASPxGridView>--%>
+                                               
+                                            </td> 
+                                        </tr>
+                                    </table>
+                                </dx:LayoutItemNestedControlContainer>
+                                </LayoutItemNestedControlCollection>
+                                </dx:LayoutItem>
+                                </Items>
+                            <Items>
+                            <dx:LayoutItem ShowCaption="False" HorizontalAlign="Right">
+                            <LayoutItemNestedControlCollection>
+                                <dx:LayoutItemNestedControlContainer>
+                                    <table>
+                                        <tr>
+                                            <td style="padding-right: 10px">
+                                                <dx:ASPxButton ID="btnSiguiente1" runat="server" Text="Siguiente" OnClick="Denunciante_click" CssClass="btn" >
+                                         
+                                                    </dx:ASPxButton>
+                                             
+                                            </td> 
+                                        </tr>
+                                    </table>
+                                </dx:LayoutItemNestedControlContainer>
+                            </LayoutItemNestedControlCollection>
+                        </dx:LayoutItem>
+                </Items>
+            </dx:ASPxFormLayout>
+            
+            <asp:SqlDataSource runat="server" ID="SqlDataSourceFillDoc" ConnectionString='<%$ ConnectionStrings:DB_PARTICIPACIONConnectionString %>' SelectCommand="SELECT Fileid,FileName,FORMAT (UploadTime, 'dd/MM/yyyy') as Fecha FROM UploaderFiles WHERE IPAddress=@IP AND IdParent=@ID_PARENT  AND ID_Denuncia IS NULL"
+                DeleteCommand="DELETE FROM UploaderFiles WHERE (Fileid = @Fileid)">
+                <DeleteParameters>
+                    <asp:Parameter Name="Fileid"></asp:Parameter>
+                </DeleteParameters>
+                <SelectParameters>
+                    <asp:SessionParameter SessionField="IP" Name="IP"></asp:SessionParameter>
+
+
+                    <asp:SessionParameter SessionField="Parent" Name="ID_PARENT"></asp:SessionParameter>
+                </SelectParameters>
+            </asp:SqlDataSource>
+        </asp:PlaceHolder>
+        
+         <asp:PlaceHolder ID="phDenunciante" runat="server">
+          
+            <dx:ASPxFormLayout runat="server" ID="formDenunciante" CssClass="formLayout" ClientInstanceName="formDenunciante">
+              <SettingsAdaptivity AdaptivityMode="SingleColumnWindowLimit" SwitchToSingleColumnAtWindowInnerWidth="700" />
+            <Items>
+                <dx:LayoutItem ShowCaption="False" HorizontalAlign="Right">
+                            <LayoutItemNestedControlCollection>
+                                <dx:LayoutItemNestedControlContainer>
+                                    <table>
+                                        <tr>
+                                           <td>
+                                              DCSD-TSC-002
+                                           </td>
+                                        </tr>
+                                    </table>
+                                </dx:LayoutItemNestedControlContainer>
+                            </LayoutItemNestedControlCollection>
+                  </dx:LayoutItem>
+                 <dx:LayoutGroup Caption="4. Datos del Denunciante *" ColCount="1" GroupBoxDecoration="HeadingLine" UseDefaultPaddings="false" Paddings-PaddingTop="10">
+                     <GroupBoxStyle>
+                        <Caption Font-Bold="true" Font-Size="15" />
+                    </GroupBoxStyle>
+                      <Items>
+                          <dx:LayoutItem ShowCaption="False" HorizontalAlign="Center">
+                            <LayoutItemNestedControlCollection>
+                                <dx:LayoutItemNestedControlContainer>
+                                    <table>
+                                        <tr>
+                                           <td style="text-align:center" >
+                                             <strong> ¿Desea que su denuncia sea anonima?, Haga ChekList en DENUNCIA ANÓNIMA. </strong> 
+                                           </td>
+                                        </tr>
+                                    </table>
+                                </dx:LayoutItemNestedControlContainer>
+                            </LayoutItemNestedControlCollection>
+                        </dx:LayoutItem>
+                          <dx:LayoutItem Caption="DENUNCIA ANÓNIMA" ColSpan="1">
+                            <LayoutItemNestedControlCollection>
+                                <dx:LayoutItemNestedControlContainer runat="server">
+                                    <dx:ASPxCheckBox ID="ckanonima" runat="server" ColSpan="1" ClientInstanceName="ckanonima" RequiredField-IsRequired="true" Display="Dynamic" ErrorTextPosition="Bottom" SetFocusOnError="True" EnableCustomValidation="True" ValidationGroup="entryGroup"
+                                                        ErrorDisplayMode="Text" CausesValidation="True">
+                                       
+                                        <ClientSideEvents  CheckedChanged="function(s, e) {
+                                             if (s.GetChecked()) {
+                                            tbNombreDenunciante.SetEnabled(false);
+                                            tbIdentidad.SetEnabled(false);
+                                            CmbCountry2.SetEnabled(false);
+                                            cmbCity2.SetEnabled(false);
+                                            tbTelefonoD.SetEnabled(false);
+                                            tbCorreo.SetEnabled(false);
+                                            ShowEnviar();
+
+                                            }
+                                            else {
+                                           tbNombreDenunciante.SetEnabled(true);
+                                           tbIdentidad.SetEnabled(true);
+                                           CmbCountry2.SetEnabled(true);
+                                           cmbCity2.SetEnabled(true);
+                                           tbTelefonoD.SetEnabled(true);
+                                           tbCorreo.SetEnabled(true);
+                                            }
+                                            }" />
+                                    </dx:ASPxCheckBox>
+                                </dx:LayoutItemNestedControlContainer>
+                            </LayoutItemNestedControlCollection>
+                        </dx:LayoutItem>
+                        <dx:LayoutItem ColSpan="1" Caption="Nombre del Denunciante" >
+                            <LayoutItemNestedControlCollection>
+                                <dx:LayoutItemNestedControlContainer runat="server">
+                                    <dx:ASPxTextBox ID="tbNombreDenunciante" runat="server"  NullText="Nombre del Denunciante" ClientInstanceName="tbNombreDenunciante" >
+                                   <ValidationSettings RequiredField-IsRequired="true" Display="Dynamic" ErrorTextPosition="Bottom" SetFocusOnError="True" EnableCustomValidation="True" 
+                                                        ErrorDisplayMode="Text" CausesValidation="True">
+                                             <RequiredField ErrorText="El Nombre es Requerido." IsRequired="true" />
+                                        </ValidationSettings>
+                                        </dx:ASPxTextBox>
+                                </dx:LayoutItemNestedControlContainer>
+                            </LayoutItemNestedControlCollection>
+                        </dx:LayoutItem>
+                          <dx:LayoutItem ColSpan="1" Caption="DNI">
+                            <LayoutItemNestedControlCollection>
+                                <dx:LayoutItemNestedControlContainer runat="server">
+                                    <dx:ASPxTextBox ID="tbIdentidad" runat="server" NullText="Documento Nacional de Identificación" ClientInstanceName="tbIdentidad" MaskSettings-Mask="000000000000" MaskSettings-ErrorText="El DNI es Requerido.">
+                                          
+                                        <ValidationSettings RequiredField-IsRequired="true" Display="Dynamic" ErrorTextPosition="Bottom" SetFocusOnError="True" EnableCustomValidation="True" 
+                                                        ErrorDisplayMode="Text" CausesValidation="True">
+                                             <RequiredField IsRequired="true" />
+                                        </ValidationSettings>
+                                    </dx:ASPxTextBox>
+                                </dx:LayoutItemNestedControlContainer>
+                            </LayoutItemNestedControlCollection>
+                        </dx:LayoutItem>
+                        <dx:LayoutItem ColSpan="1" Caption="Departamento">
+                            <LayoutItemNestedControlCollection>
+                                <dx:LayoutItemNestedControlContainer runat="server">
+                                    <dx:ASPxComboBox runat="server" ID="CmbCountry2" DataSourceID="SqlDataSource_Deptos" TextField="Nombre" ValueField="ID_Departamento" NullText="Seleccione el Departamento" ClientInstanceName="CmbCountry2" >    
+                                       <ClientSideEvents SelectedIndexChanged="function(s,e){OnCountryChanged2(s.GetSelectedItem().value.toString());}"/>
+                                        <ValidationSettings RequiredField-IsRequired="true" Display="Dynamic" ErrorTextPosition="Bottom" SetFocusOnError="True" EnableCustomValidation="True" 
+                                                        ErrorDisplayMode="Text" CausesValidation="True">
+                                             <RequiredField ErrorText="El Departamento es Requerido." IsRequired="true" />
+                                        </ValidationSettings>
+                                    </dx:ASPxComboBox>
+                                </dx:LayoutItemNestedControlContainer>
+                            </LayoutItemNestedControlCollection>
+                        </dx:LayoutItem>
+                        <dx:LayoutItem ColSpan="1" Caption="Municipio">
+                            <LayoutItemNestedControlCollection>
+                                <dx:LayoutItemNestedControlContainer runat="server">
+                                    <dx:ASPxComboBox runat="server" ID="CmbCity2" DataSourceID="SqlDataSource_Muni" TextField="Nombre" ValueField="ID_Municipio" ClientInstanceName="cmbCity2" OnCallback="CmbCity2_Callback" NullText="Seleccione el Municipio" >
+                                        <ValidationSettings RequiredField-IsRequired="true" Display="Dynamic" ErrorTextPosition="Bottom" SetFocusOnError="True" EnableCustomValidation="True" 
+                                                        ErrorDisplayMode="Text" CausesValidation="True">
+                                             <RequiredField ErrorText="El Municipio es Requerido." IsRequired="true" />
+                                        </ValidationSettings>
+                                    </dx:ASPxComboBox>
+                                </dx:LayoutItemNestedControlContainer>
+                            </LayoutItemNestedControlCollection>
+                        </dx:LayoutItem>
+                        <%--<dx:LayoutItem ColSpan="1" Caption="Lugar de Trabajo">
+                            <LayoutItemNestedControlCollection>
+                                <dx:LayoutItemNestedControlContainer runat="server">
+                                    <dx:ASPxTextBox ID="tbLugarTrabajo" runat="server">
+                                    </dx:ASPxTextBox>
+                                </dx:LayoutItemNestedControlContainer>
+                            </LayoutItemNestedControlCollection>
+                        </dx:LayoutItem>--%>
+                        <%--<dx:LayoutItem Caption="Domicilio" ColSpan="1">
+                            <LayoutItemNestedControlCollection>
+                                <dx:LayoutItemNestedControlContainer runat="server">
+                                    <dx:ASPxTextBox ID="tbDireccionD" runat="server" NullText="Dirección del Domicilio">
+                                    </dx:ASPxTextBox>
+                                </dx:LayoutItemNestedControlContainer>
+                            </LayoutItemNestedControlCollection>
+                        </dx:LayoutItem>--%>
+                        <dx:LayoutItem Caption="Teléfono" ColSpan="1">
+                            <LayoutItemNestedControlCollection>
+                                <dx:LayoutItemNestedControlContainer runat="server">
+                                    <dx:ASPxTextBox ID="tbTelefonoD" runat="server" MaskSettings-Mask="0000-0000" NullText="Teléfono" ClientInstanceName="tbTelefonoD" MaskSettings-ErrorText="El Teléfono es Requerido.">
+                                   <ValidationSettings RequiredField-IsRequired="true" Display="Dynamic" ErrorTextPosition="Bottom" SetFocusOnError="True" EnableCustomValidation="True" 
+                                                        ErrorDisplayMode="Text" CausesValidation="True" >
+                                              <RequiredField IsRequired="True" />
+                                         </ValidationSettings>
+                                        </dx:ASPxTextBox>
+                                </dx:LayoutItemNestedControlContainer>
+                            </LayoutItemNestedControlCollection>
+                        </dx:LayoutItem>
+                        <dx:LayoutItem Caption="Correo Electrónico" ColSpan="1" >
+                            <LayoutItemNestedControlCollection>
+                                <dx:LayoutItemNestedControlContainer runat="server">
+                                    <dx:ASPxTextBox ID="tbCorreo" runat="server" NullText="Correo Electrónico" ClientInstanceName="tbCorreo">
+                                        <ValidationSettings Display="Dynamic" ErrorTextPosition="Bottom" SetFocusOnError="True" EnableCustomValidation="True" 
+                                                        ErrorDisplayMode="Text" CausesValidation="True" >
+                                              <RegularExpression ErrorText=" El Correo Electrónico no es válido" ValidationExpression="\w+([-+.']\w+)*@\w+([-.]\w+)*\.\w+([-.]\w+)*" />
+                                         </ValidationSettings>
+                                        <ClientSideEvents />
+                                    </dx:ASPxTextBox>
+                                </dx:LayoutItemNestedControlContainer>
+                            </LayoutItemNestedControlCollection>
+                        </dx:LayoutItem>
+                          </Items>
+                        <%--<dx:LayoutItem Caption="Confirmar Correo Electrónico" ColSpan="1">
+                            <LayoutItemNestedControlCollection>
+                                <dx:LayoutItemNestedControlContainer runat="server">
+                                    <dx:ASPxTextBox ID="tbCCorreo" runat="server" >
+                                        <ValidationSettings RequiredField-IsRequired="true" Display="Dynamic" ErrorTextPosition="Bottom" SetFocusOnError="True">
+                                              <RequiredField ErrorText="El correo de confirmación es requerido" IsRequired="True" />
+                                              <RegularExpression ErrorText="Correo no válido" ValidationExpression="\w+([-+.']\w+)*@\w+([-.]\w+)*\.\w+([-.]\w+)*" />
+                                         </ValidationSettings>
+                                    </dx:ASPxTextBox>
+                                </dx:LayoutItemNestedControlContainer>
+                            </LayoutItemNestedControlCollection>
+                        </dx:LayoutItem>--%>
+                </dx:LayoutGroup>
+                   
+                    </Items>
+              <Items>
+            <dx:LayoutItem ShowCaption="False" HorizontalAlign="Left">
+                            <LayoutItemNestedControlCollection>
+                                <dx:LayoutItemNestedControlContainer>
+                                    <table>
+                                        <tr>
+                                           <td>
+                                             <strong> * Al consignar dirección de correo electrónico recibirá comunicación automática que facilitará el seguimiento de su denuncia. </strong> 
+                                           </td>
+                                        </tr>
+                                    </table>
+                                </dx:LayoutItemNestedControlContainer>
+                            </LayoutItemNestedControlCollection>
+                        </dx:LayoutItem>
+                </Items>
+                <Items>
+                    <dx:LayoutItem ShowCaption="False" HorizontalAlign="Right">
+                            <LayoutItemNestedControlCollection>
+                                <dx:LayoutItemNestedControlContainer>
+                                    <table>
+                                        <tr>
+                                            <td style="padding-right: 10px">
+                                                <dx:ASPxButton ID="btnSiguiente2" AutoPostBack="False" runat="server" Text="Siguiente" OnClick="Datos_click" CssClass="btn">
+                                                   <%-- <ClientSideEvents Click="function(s, e) { if(ASPxClientEdit.ValidateGroup('entryGroup'));}" />--%>
+                                                </dx:ASPxButton>
+                                            </td>
+                                        </tr>
+                                    </table>
+                                </dx:LayoutItemNestedControlContainer>
+                            </LayoutItemNestedControlCollection>
+                        </dx:LayoutItem>
+                </Items>
+                </dx:ASPxFormLayout>
+             
+            </asp:PlaceHolder>      
+
+           
+         <asp:PlaceHolder ID="phDatos" runat="server">
+            <dx:ASPxFormLayout runat="server" ID="formDatos" CssClass="formLayout">
+              <SettingsAdaptivity AdaptivityMode="SingleColumnWindowLimit" SwitchToSingleColumnAtWindowInnerWidth="700" />
+            <Items>
+                <dx:LayoutGroup Caption="DATOS DEL FUNCIONARIO(A) O EMPLEADO(A) A DENUNCIAR" ColCount="1" GroupBoxDecoration="HeadingLine" UseDefaultPaddings="false" Paddings-PaddingTop="10">
+                    <Paddings PaddingTop="10px"></Paddings>
+                   <GroupBoxStyle>
+                        <Caption Font-Bold="true" Font-Size="15" />
+                    </GroupBoxStyle>
+                     <Items>
+                        <dx:LayoutItem ColSpan="1" Caption="Tipo">
+                            <LayoutItemNestedControlCollection>
+                                <dx:LayoutItemNestedControlContainer runat="server">
+                                    <dx:ASPxLabel ID="Lbtipo" runat="server"></dx:ASPxLabel>
+                                </dx:LayoutItemNestedControlContainer>
+                            </LayoutItemNestedControlCollection>
+                        </dx:LayoutItem>
+                        <dx:LayoutItem ColSpan="1" Caption="Nombre del Implicado">
+                            <LayoutItemNestedControlCollection>
+                                <dx:LayoutItemNestedControlContainer runat="server">
+                                    <dx:ASPxLabel ID="LbNombre" runat="server"></dx:ASPxLabel>
+                                </dx:LayoutItemNestedControlContainer>
+                            </LayoutItemNestedControlCollection>
+                        </dx:LayoutItem>
+                        <dx:LayoutItem ColSpan="1" Caption="Departamento">
+                            <LayoutItemNestedControlCollection>
+                                <dx:LayoutItemNestedControlContainer runat="server">
+                                   <dx:ASPxLabel ID="LbDepartamento" runat="server"></dx:ASPxLabel>
+                                </dx:LayoutItemNestedControlContainer>
+                            </LayoutItemNestedControlCollection>
+                        </dx:LayoutItem>
+                        <dx:LayoutItem ColSpan="1" Caption="Municipio">
+                            <LayoutItemNestedControlCollection>
+                                <dx:LayoutItemNestedControlContainer runat="server">
+                                   <dx:ASPxLabel ID="LbMunicipio" runat="server"></dx:ASPxLabel>
+                                </dx:LayoutItemNestedControlContainer>
+                            </LayoutItemNestedControlCollection>
+                        </dx:LayoutItem>
+                        <dx:LayoutItem Caption="Ocupación o Cargo" ColSpan="1">
+                            <LayoutItemNestedControlCollection>
+                                <dx:LayoutItemNestedControlContainer runat="server">
+                                    <dx:ASPxLabel ID="LbOcupacion" runat="server"></dx:ASPxLabel>
+                                </dx:LayoutItemNestedControlContainer>
+                            </LayoutItemNestedControlCollection>
+                        </dx:LayoutItem>
+                        <dx:LayoutItem Caption="Institución de los hechos" ColSpan="1">
+                            <LayoutItemNestedControlCollection>
+                                <dx:LayoutItemNestedControlContainer runat="server">
+                                    <dx:ASPxLabel ID="LbInstitucionh" runat="server"></dx:ASPxLabel>
+                                </dx:LayoutItemNestedControlContainer>
+                            </LayoutItemNestedControlCollection>
+                        </dx:LayoutItem>
+                        <dx:LayoutItem Caption="Dirección Institución" ColSpan="1">
+                            <LayoutItemNestedControlCollection>
+                                <dx:LayoutItemNestedControlContainer runat="server">
+                                    <dx:ASPxMemo ID="mmDireccion" runat="server" Rows="3" HelpTextSettings-Position="Top" NullText="Dirección de La Institución" ReadOnly="True"> 
+<HelpTextSettings Position="Top"></HelpTextSettings>
+                                    </dx:ASPxMemo>
+                                </dx:LayoutItemNestedControlContainer>
+                            </LayoutItemNestedControlCollection>
+                        </dx:LayoutItem>
+                        <%--<dx:LayoutItem Caption="Teléfono Institución" ColSpan="1">
+                            <LayoutItemNestedControlCollection>
+                                <dx:LayoutItemNestedControlContainer runat="server">
+                                    <dx:ASPxLabel ID="LbTelefonoI" runat="server"></dx:ASPxLabel>
+                                </dx:LayoutItemNestedControlContainer>
+                            </LayoutItemNestedControlCollection>
+                        </dx:LayoutItem>--%>
+                         <dx:LayoutItem Caption="Monto Aproximado " ColSpan="1">
+                            <LayoutItemNestedControlCollection>
+                                <dx:LayoutItemNestedControlContainer runat="server">
+                                    <dx:ASPxLabel ID="LbMonto" runat="server"></dx:ASPxLabel>
+                                </dx:LayoutItemNestedControlContainer>
+                            </LayoutItemNestedControlCollection>
+                        </dx:LayoutItem>
+                    </Items>
+                </dx:LayoutGroup>
+                <dx:LayoutGroup Caption="DESCRIPCIÓN DE LOS HECHOS QUE DENUNCIA" ColCount="1" GroupBoxDecoration="HeadingLine" UseDefaultPaddings="false" Paddings-PaddingTop="10" >
+                    <Paddings PaddingTop="10px"></Paddings>
+                   <GroupBoxStyle>
+                        <Caption Font-Bold="true" Font-Size="15" />
+                    </GroupBoxStyle>
+                     <Items>
+                        <dx:LayoutItem showcaption="false" ColSpan="1" CaptionSettings-Location="Top">
+                            <LayoutItemNestedControlCollection>
+                                <dx:LayoutItemNestedControlContainer runat="server">
+                                    <dx:ASPxMemo ID="mmHechos1" runat="server" Rows="8" ReadOnly="True"></dx:ASPxMemo>
+                                </dx:LayoutItemNestedControlContainer>
+                            </LayoutItemNestedControlCollection>
+                                <CaptionSettings Location="Top"></CaptionSettings>
+                        </dx:LayoutItem>
+                    </Items>
+                </dx:LayoutGroup>
+                <dx:LayoutGroup Caption="PRUEBAS O DOCUMENTOS QUE SUSTENTEN LOS HECHOS QUE DENUNCIA" ColCount="1" GroupBoxDecoration="HeadingLine" UseDefaultPaddings="false" Paddings-PaddingTop="10">
+                    <Paddings PaddingTop="10px"></Paddings>
+                    <GroupBoxStyle>
+                        <Caption Font-Bold="true" Font-Size="15" />
+                    </GroupBoxStyle>
+                    <Items>
+                        <dx:LayoutItem showcaption="False" ColSpan="1" CaptionSettings-Location="Top">
+                            <LayoutItemNestedControlCollection>
+                                <dx:LayoutItemNestedControlContainer runat="server">
+                                   <dx:ASPxMemo ID="mmPruebas1" runat="server" Rows="8" ReadOnly="True"></dx:ASPxMemo>
+                                </dx:LayoutItemNestedControlContainer>
+                            </LayoutItemNestedControlCollection>
+                        <CaptionSettings Location="Top"></CaptionSettings>
+                        </dx:LayoutItem>
+                    </Items>
+                </dx:LayoutGroup>
+              <%--  <dx:LayoutGroup Caption="ARCHIVOS ANEXADOS" ColCount="1" GroupBoxDecoration="HeadingLine" UseDefaultPaddings="false" Paddings-PaddingTop="10">
+                    <Paddings PaddingTop="10px"></Paddings>
+                    <GroupBoxStyle>
+                        <Caption Font-Bold="true" Font-Size="15" />
+                    </GroupBoxStyle>
+                    <Items>
+                        <dx:LayoutItem Caption="Si no dispone de ellos " ColSpan="1" CaptionSettings-Location="Top">
+                            <LayoutItemNestedControlCollection>
+                                <dx:LayoutItemNestedControlContainer runat="server">
+                                    <dx:ASPxLabel ID="ASPxLabel10" runat="server" Text="ASPxLabel"></dx:ASPxLabel>
+                                </dx:LayoutItemNestedControlContainer>
+                            </LayoutItemNestedControlCollection>
+                                <CaptionSettings Location="Top"></CaptionSettings>
+                        </dx:LayoutItem>
+                    </Items>
+                </dx:LayoutGroup>--%>
+                <dx:LayoutGroup Caption="DATOS DEL DENUNCIANTE" ColCount="1" GroupBoxDecoration="HeadingLine" UseDefaultPaddings="false" Paddings-PaddingTop="10">
+                    <Paddings PaddingTop="10px"></Paddings>
+                     <GroupBoxStyle>
+                        <Caption Font-Bold="true" Font-Size="15" />
+                     </GroupBoxStyle>
+                      <Items>
+                        <dx:LayoutItem ColSpan="1" Caption="Nombre y Apellidos">
+                            <LayoutItemNestedControlCollection>
+                                <dx:LayoutItemNestedControlContainer runat="server">
+                                    <dx:ASPxLabel ID="LbNombreD" runat="server"></dx:ASPxLabel>
+                                </dx:LayoutItemNestedControlContainer>
+                            </LayoutItemNestedControlCollection>
+                        </dx:LayoutItem>
+                              <dx:LayoutItem ColSpan="1" Caption="DNI">
+                            <LayoutItemNestedControlCollection>
+                                <dx:LayoutItemNestedControlContainer runat="server">
+                                    <dx:ASPxLabel ID="LbIdentidad" runat="server"></dx:ASPxLabel>
+                                </dx:LayoutItemNestedControlContainer>
+                            </LayoutItemNestedControlCollection>
+                        </dx:LayoutItem>
+                        <dx:LayoutItem ColSpan="1" Caption="Departamento">
+                            <LayoutItemNestedControlCollection>
+                                <dx:LayoutItemNestedControlContainer runat="server">
+                                    <dx:ASPxLabel ID="LbDepartamentoD" runat="server" ></dx:ASPxLabel>
+                                </dx:LayoutItemNestedControlContainer>
+                            </LayoutItemNestedControlCollection>
+                        </dx:LayoutItem>
+                        <dx:LayoutItem ColSpan="1" Caption="Municipio">
+                            <LayoutItemNestedControlCollection>
+                                <dx:LayoutItemNestedControlContainer runat="server">
+                                    <dx:ASPxLabel ID="LbMunicipioD" runat="server"></dx:ASPxLabel>
+                                </dx:LayoutItemNestedControlContainer>
+                            </LayoutItemNestedControlCollection>
+                        </dx:LayoutItem>
+                       <%-- <dx:LayoutItem ColSpan="1" Caption="Lugar de Trabajo">
+                            <LayoutItemNestedControlCollection>
+                                <dx:LayoutItemNestedControlContainer runat="server">
+                                    <dx:ASPxLabel ID="LbLugarT" runat="server"></dx:ASPxLabel>
+                                </dx:LayoutItemNestedControlContainer>
+                            </LayoutItemNestedControlCollection>
+                        </dx:LayoutItem>--%>
+                    <%--    <dx:LayoutItem Caption="Dirección" ColSpan="1">
+                            <LayoutItemNestedControlCollection>
+                                <dx:LayoutItemNestedControlContainer runat="server">
+                                    <dx:ASPxLabel ID="LbDireccionD" runat="server"></dx:ASPxLabel>
+                                </dx:LayoutItemNestedControlContainer>
+                            </LayoutItemNestedControlCollection>
+                        </dx:LayoutItem>--%>
+                        <dx:LayoutItem Caption="Teléfono" ColSpan="1">
+                            <LayoutItemNestedControlCollection>
+                                <dx:LayoutItemNestedControlContainer runat="server">
+                                    <dx:ASPxLabel ID="LbTelefonoD" runat="server" ></dx:ASPxLabel>
+                                </dx:LayoutItemNestedControlContainer>
+                            </LayoutItemNestedControlCollection>
+                        </dx:LayoutItem>
+                        <dx:LayoutItem Caption="Correo Electrónico" ColSpan="1" >
+                            <LayoutItemNestedControlCollection>
+                                <dx:LayoutItemNestedControlContainer runat="server">
+                                    <dx:ASPxLabel ID="LbCorreo" runat="server"></dx:ASPxLabel>
+                                </dx:LayoutItemNestedControlContainer>
+                            </LayoutItemNestedControlCollection>
+                        </dx:LayoutItem>
+                    <%--    <dx:LayoutItem Caption="Confirmar Correo Electrónico" ColSpan="1">
+                            <LayoutItemNestedControlCollection>
+                                <dx:LayoutItemNestedControlContainer runat="server">
+                                    <dx:ASPxLabel ID="LbCorreoC" runat="server" Text="ASPxLabel"></dx:ASPxLabel>
+                                </dx:LayoutItemNestedControlContainer>
+                            </LayoutItemNestedControlCollection>
+                        </dx:LayoutItem>--%>
+                       <%-- <dx:LayoutItem Caption="Denuncia Anónima" ColSpan="1">
+                            <LayoutItemNestedControlCollection>
+                                <dx:LayoutItemNestedControlContainer runat="server">
+                                    <dx:ASPxCheckBox ID="ckanonima2" runat="server" ColSpan="1"></dx:ASPxCheckBox>
+                                </dx:LayoutItemNestedControlContainer>
+                            </LayoutItemNestedControlCollection>
+                        </dx:LayoutItem>--%>
+                    </Items>
+                </dx:LayoutGroup>
+                  <dx:LayoutGroup ColCount="2" UseDefaultPaddings="false" Paddings-PaddingTop="10" GroupBoxDecoration="None" ShowCaption="False" >
+                    <Paddings PaddingTop="10px"></Paddings>
+                   <GroupBoxStyle>
+                        <Caption Font-Bold="true" Font-Size="15" />
+                    </GroupBoxStyle>
+                     <items>
+                         <dx:LayoutItem ShowCaption="False" ColSpan="1" Width="70px" HorizontalAlign="Left">
+                            <LayoutItemNestedControlCollection>
+                                <dx:LayoutItemNestedControlContainer>
+                                </dx:LayoutItemNestedControlContainer>
+                            </LayoutItemNestedControlCollection> 
+                        </dx:LayoutItem>
+                        
+                    <dx:LayoutItem ShowCaption="False" ColSpan="1" Width="70px" HorizontalAlign="Right" >
+                            <LayoutItemNestedControlCollection>
+                                <dx:LayoutItemNestedControlContainer>
+                                    <table class="dx-justification">
+                                                    <tr>
+                                                        <td style="text-align:center">
+                                                            <dx:ASPxButton ID="btnGuardar" runat="server" Text="Guardar Datos" AutoPostBack="False" UseSubmitBehavior="false" OnClick="BtnGuardar_Click"  CssClass="btn" HorizontalAlign="Right" >
+                                                    <ClientSideEvents Click="function(s, e) {  ShowRelacionado();}" />                       
+                                                </dx:ASPxButton>
+                                                            
+                                                        </td>
+                                                    </tr>
+                                                </table>
+                                </dx:LayoutItemNestedControlContainer>
+                            </LayoutItemNestedControlCollection>
+                        </dx:LayoutItem>
+             
+                         </items>
+                    </dx:LayoutGroup>
+                </Items>
+        </dx:ASPxFormLayout>
+             </asp:PlaceHolder>
+
+        <dx:ASPxPopupControl ID="Relacionado" runat="server" ClientInstanceName="Relacionado" HeaderText="" CloseAction="CloseButton" CloseOnEscape="true"
+           Modal="True" PopupHorizontalAlign="WindowCenter" PopupVerticalAlign="WindowCenter" MinWidth="310px" MinHeight="214px" Width="486px" Height="237px"
+           AllowDragging="True" EnableViewState="False" AutoUpdatePosition="true" SettingsAdaptivity-Mode="Always" SettingsAdaptivity-VerticalAlign="WindowCenter" >
+<SettingsAdaptivity Mode="Always" VerticalAlign="WindowCenter"></SettingsAdaptivity>
+
+       <%-- <HeaderImage IconID="toolboxitems_report2_32x32">
+        </HeaderImage>--%>
+        <%--<ClientSideEvents Closing="function(s, e) {
+        ASPxClientEdit.ClearEditorsInContainerById('PopupCollection'); }" />--%>
+        <ContentCollection>
+            <dx:PopupControlContentControl runat="server">
+                            <dx:ASPxFormLayout runat="server" ID="ASPxFormLayout2" CssClss="formLayout" Width="100%" Height="100%">
+                                <SettingsAdaptivity AdaptivityMode="SingleColumnWindowLimit" SwitchToSingleColumnAtWindowInnerWidth="700" />
+                                <Items>
+                                    <dx:LayoutItem showCaption="false">
+                                        <LayoutItemNestedControlCollection>
+                                            <dx:LayoutItemNestedControlContainer>
+                                                 <div style="text-align:center" >
+         <img  class="img-responsive" src="../Content/Images/cheque.png"/>
+         </div>
+                                                <br />
+                                                <table class="dx-justification">
+                                                    <tr>
+                                                        <td class="auto-style2">
+                                                            <dx:ASPxLabel ID="Lbl_msg" runat="server">
+                                                            </dx:ASPxLabel>
+                                                        </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td class="dx-ac"><strong>Gracias por su denuncia!</strong></td>
+                                                    </tr>
+                                               <%--     <tr>
+                                                        <td class="dx-ac">Si usted desea una copia de su denuncia haga clic <a href="Ciudadano/ConsultaDenuncia.aspx?Denuncia_ID= <%:Session["Denuncia_ID"]%> ">Aqui</a></td>
+                                                    </tr>--%>
+                                                   <%-- <tr>
+                                                        <td class="dx-ac">Si desea monitorear más adelante su Denuncia siga las siguientes instrucciones :</td>
+                                                    </tr>--%>
+                                                    <tr>
+                                                        <td class="dx-ac">Su Registro de Denuncia es:
+                                                            <dx:ASPxLabel ID="Lb_Denuncia" runat="server" ForeColor="Red">
+                                                            </dx:ASPxLabel>
+                                                        </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td class="dx-ac">Su Código de Acceso es: <dx:ASPxLabel ID="Lbl_clave" runat="server" ForeColor="Red">
+                                                            </dx:ASPxLabel>
+                                                        </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td style="text-align:center" class="auto-style3" >
+                                                            </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td style="text-align:center">
+                                                            
+                                                            <dx:ASPxButton ID="OK" runat="server" AutoPostBack="False" UseSubmitBehavior="false" CssClass="btn" Text="OK" OnClick="OK_Click" >
+                                                                <ClientSideEvents Click="function(s, e) {  Relacionado.Hide(); }" />
+                                                            </dx:ASPxButton>
+                                                        </td>
+                                                    </tr>
+                                                </table>
+                                                <br />
+                          </dx:LayoutItemNestedControlContainer>
+                        </LayoutItemNestedControlCollection>
+                        </dx:LayoutItem>
+                                    </Items>
+                                 </dx:ASPxFormLayout>
+            </dx:PopupControlContentControl>
+        </ContentCollection>
+        <ClientSideEvents CloseUp="function(s, e) { s.PerformCallback(); }" />
+    </dx:ASPxPopupControl>
+
+       <dx:ASPxPopupControl ID="Enviar" runat="server" ClientInstanceName="Enviar" HeaderText="Anónima" CloseAction="CloseButton" CloseOnEscape="true"
+           Modal="True" PopupHorizontalAlign="WindowCenter" PopupVerticalAlign="WindowCenter" MinWidth="310px" MinHeight="214px" Width="486px" Height="237px"
+           AllowDragging="True" EnableViewState="False" AutoUpdatePosition="true" SettingsAdaptivity-Mode="Always" SettingsAdaptivity-VerticalAlign="WindowCenter"
+
+           PopupAnimationType="Fade" >
+<SettingsAdaptivity Mode="Always" VerticalAlign="WindowCenter"></SettingsAdaptivity>
+
+        <%--<HeaderImage IconID="toolboxitems_report2_32x32">
+        </HeaderImage>--%>
+        <ClientSideEvents PopUp="function(s, e) { ASPxClientEdit.ClearGroup('entryGroup');tbcorreo2.Focus(); }" />
+      
+                <ContentCollection>
+            <dx:PopupControlContentControl runat="server">
+                 <dx:ASPxPanel ID="Panel1" runat="server" DefaultButton="btOK">
+                    <PanelCollection>
+                        <dx:PanelContent runat="server">
+                            <dx:ASPxFormLayout runat="server" ID="ASPxFormLayout1" CssClss="formLayout" Width="100%" Height="100%">
+                             <SettingsAdaptivity AdaptivityMode="SingleColumnWindowLimit" SwitchToSingleColumnAtWindowInnerWidth="700" />
+                                <Items>                  
+                             <dx:LayoutItem showCaption="false">
+                            <LayoutItemNestedControlCollection>
+                                <dx:LayoutItemNestedControlContainer runat="server">
+                                 <div style="text-align:center" >
+         <img  class="img-responsive" src="../Content/Images/senal-de-alerta.png"/>
+         </div>
+                                                <table class="dx-justification">
+
+                                                    <tr>
+
+                                                        <td class="dx-ac" style="text-align:center">
+                                                         <br /> 
+                                                                “ Al ser una denuncia anónima, 
+                                                                  <strong>NO</strong> contará con los elementos necesarios para informarle el avance de su trámite, 
+                                                                  tanto de forma presencial como virtual.” 
+                                                                  </td>
+                                                    </tr>
+                                                </table>
+                                                <br />                                 
+                                </dx:LayoutItemNestedControlContainer>
+                            </LayoutItemNestedControlCollection>
+                        </dx:LayoutItem>
+                                         <dx:LayoutItem ShowCaption="False" ColSpan="1" Width="70px" HorizontalAlign="Center">
+                            <LayoutItemNestedControlCollection>
+                                <dx:LayoutItemNestedControlContainer runat="server">
+
+                                     <dx:ASPxButton ID="btOK" runat="server" AutoPostBack="False" Text="OK" CssClass="btn">
+                                                                 <ClientSideEvents Click="function(s, e) { if(ASPxClientEdit.ValidateGroup('entryGroup')) Enviar.Hide(); }" />
+                                                                <%--<ClientSideEvents Click="function(s, e) {  Enviar.Hide();}" />--%>
+                                                            </dx:ASPxButton>
+                                    </dx:LayoutItemNestedControlContainer>
+                                </LayoutItemNestedControlCollection>
+                                             </dx:LayoutItem>
+                                </Items>
+                                 </dx:ASPxFormLayout>
+                              </dx:PanelContent>
+                    </PanelCollection>
+                </dx:ASPxPanel>
+            </dx:PopupControlContentControl>
+        </ContentCollection>
+        <%--<ClientSideEvents CloseUp="function(s, e) { s.PerformCallback(); }" />--%>
+    </dx:ASPxPopupControl>
+        </div>
+        </div>
+           </form>
+      <!-- end innva -->
+      <!-- footer -->
+      <footer>
+         <div class="footer">
+            <div class="container">
+               <div class="row">
+                 <div class="col-md-12"> 
+                    <ul class="conta">
+                        <li> <span>Dirección</span> Centro civico Gubernamental, Bulevar Fuerzas Armadas <br /> Honduras, C.A </li>
+                        <li> <span>Correo Eléctronico</span> <a href="mailto:tsc@tsc.gob.hn">tsc@tsc.gob.hn</a> </li>
+                        <li> <span>Contacto</span> <a href="Javascript:void(0)">Tel(+504) 2230-3646 / 2228-3512 / 2228-7913 <br/> 2230-4152 / 2230-8242 / 2230-3732 </a> </li>
+                      </ul>
+                 </div>
+               <%-- <div class="col-lg-6 offset-lg-3 col-md-10 offset-md-1">
+                       <form class="newslatter_form">
+                        <input class="ente" placeholder="Enter your email" type="text" name="Enter your email">
+                        <button class="subs_btn"><i class="fa fa-arrow-right" aria-hidden="true"></i></button>
+                     </form>
+                  </div>--%>
+                  <div class="col-md-12">
+                    <div class="Informa">
+                      <ul class="social_icon text_align_center">
+                        <%--<li> <a href="http://www.facebook.com/tschonduras"> <i class="fa fa-solid fa-globe"></i></a></li>--%>
+                        <li> <a href="https://www.tsc.gob.hn/web/"> <i class="fa fa-solid fa-globe"></i></a></li>
+                       <li> <a href="http://www.facebook.com/tschonduras"> <i class="fa fa-facebook-square"></i></a></li>
+                        <li> <a href="http://www.twitter.com/tschonduras">  <i class="fa fa-twitter"></i></a></li>
+                        <%--<li> <a href="Javascript:void(0)"><i class="fa fa-linkedin-square" aria-hidden="true"></i></a></li>--%>
+                       <%-- <li> <a href="Javascript:void(0)"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>--%>
+                      </ul>
+                    </div>
+                  </div>
+               </div>
+            </div>
+            <div class="copyright text_align_center">
+               <div class="container">
+                  <div class="row">
+                     <div class="col-md-12">
+                         <p>Copyright &copy; Tribunal Superior de Cuentas - <%: DateTime.Now.Year %>. All Rights Reserved. <%--Design by <a href="https://html.design/"> Free Html Template</a>--%></p>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </footer>
+      <!-- end footer -->
+      <!-- Javascript files-->
+      <script src="Content/js/jquery.min.js"></script>
+      <script src="Content/js/bootstrap.bundle.min.js"></script>
+      <script src="Content/js/jquery-3.0.0.min.js"></script>
+      <script src="Content/js/owl.carousel.min.js"></script>
+      <script src="Content/js/custom.js"></script>
+  
+   </body>
+</html>

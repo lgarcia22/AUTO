@@ -1,0 +1,93 @@
+﻿<%@ Master Language="C#" MasterPageFile="~/Root.master" AutoEventWireup="true" CodeBehind="menu.master.cs" Inherits="PREDJL.menu" %>
+
+<%@ Register Src="TimeoutControl.ascx" TagName="TimeoutControl" TagPrefix="uc1" %>
+<asp:Content ID="Content1" ContentPlaceHolderID="Head" runat="server">
+    <asp:ContentPlaceHolder ID="Head" runat="server" />
+   <%-- <link rel="stylesheet" type="text/css" href='<%# ResolveUrl("~/Content//Content%20-%20Copia.css") %>' />
+    <link rel="stylesheet" type="text/css" href='<%# ResolveUrl("~/Content/Layout%20-%20Copia.css") %>' />--%>
+   <%-- <link href="Content/Layout.css" rel="stylesheet" />
+    <link href="Content/Content.css" rel="stylesheet" />--%>
+    <style>
+        .btn {
+            -webkit-border-radius: 35px;
+            -moz-border-radius: 35px;
+            border-radius: 35px;
+        }
+    </style>
+    <script type="text/javascript" src='<%# ResolveUrl("~/Content/Script%20-%20Copia.js") %>'></script>
+     <script>
+        function OnItemClick(s, e) {
+            if (e.item.name == "DenunciasC")
+                Presentacion_Denuncia.Show();
+        }
+     </script>
+</asp:Content>
+<asp:Content ID="Content2" ContentPlaceHolderID="LeftPanelContent" runat="server">
+
+    <asp:ContentPlaceHolder ID="LeftPanelContent" runat="server" />
+    <h3 class="leftpanel-section section-caption">Menú Principal</h3>
+    <dx:ASPxNavBar ID="nbMain" runat="server" AllowSelectItem="True" EnableAnimation="True" CssClass="custom-nav-bar" 
+        Width="100%"  SyncSelectionMode="None">
+        <ItemStyle CssClass="item" />
+        <ClientSideEvents ItemClick="OnItemClick" />
+        <Groups>
+            <dx:NavBarGroup Text="Inicio" Expanded="False" ItemImagePosition="Left" Name="Inicio" NavigateUrl="~/Default.aspx" >
+
+                <HeaderImage IconID="businessobjects_bo_address_svg_16x16">
+                </HeaderImage>
+                <HeaderImageCollapsed IconID="businessobjects_bo_address_svg_16x16">
+                </HeaderImageCollapsed>
+
+            </dx:NavBarGroup>
+            <dx:NavBarGroup Text="Auto Enrolamiento DJL" Expanded="False" ItemImagePosition="Left" Name="Pre-Registro" >
+                    <CollapseImage IconID="businessobjects_bo_document_svg_16x16">
+                    </CollapseImage>
+                    <ExpandImage IconID="businessobjects_bo_contract_svg_16x16"></ExpandImage>  
+                <Items>
+                   <%-- <dx:NavBarItem Text="Formulario Virtual de Denuncias" Name="DenunciasC" Image-IconID="tasks_newtask_16x16office2013">
+                        <Image IconID="businessobjects_bo_report_svg_16x16"></Image>   
+                     </dx:NavBarItem>--%>
+                     <dx:NavBarItem NavigateUrl="Clasificacion.aspx" Text="Usuarios en Proceso" Name="Clasificacion" Image-IconID="richedit_pastespecial_16x16">
+                        <Image IconID="businessobjects_bo_task_svg_16x16"></Image>   
+                    </dx:NavBarItem>
+
+                    <dx:NavBarItem NavigateUrl="Users_Trasladados.aspx" Text="Usuarios Registrados" Name="Usuarios_Exportados" Image-IconID="richedit_pastespecial_16x16">
+                        <Image IconID="businessobjects_bo_task_svg_16x16"></Image>   
+                    </dx:NavBarItem>
+                </Items>
+          </dx:NavBarGroup>
+            <dx:NavBarGroup Text="Mantenimiento" Expanded="False" ItemImagePosition="Left" Name="Mantenimiento" >
+                    <CollapseImage IconID="outlookinspired_customizegrid_svg_16x16">
+                    </CollapseImage>
+                    <ExpandImage IconID="outlookinspired_custom_svg_16x16"></ExpandImage>
+                <Items>
+                    <%--<dx:NavBarItem NavigateUrl="Mantenimiento/Direcciones.aspx" Text="Direcciones" Name="Direcciones" Image-IconID="richedit_pastespecial_16x16">
+                         <Image IconID="iconbuilder_travel_hotel_svg_gray_16x16"></Image>     
+                    </dx:NavBarItem>--%>
+                    <dx:NavBarItem NavigateUrl="Mantenimiento/Instituciones.aspx" Text="Instituciones" Name="Instituciones" Image-IconID="richedit_pastespecial_16x16" >
+                         <Image IconID="iconbuilder_travel_hotel_svg_gray_16x16"></Image>   
+                    </dx:NavBarItem>
+                    <dx:NavBarItem NavigateUrl="Mantenimiento/Usuarios.aspx" Text="Usuarios" Name="Usuarios" Image-IconID="richedit_pastespecial_16x16" >
+                         <Image IconID="outlookinspired_employees_svg_16x16"></Image>
+                    </dx:NavBarItem>
+                    <dx:NavBarItem NavigateUrl="Account/Registro.aspx" Text="Registrar Usuarios" Name="RegistrarU" Image-IconID="people_user_16x16">
+                         <Image IconID="outlookinspired_newemployee_svg_16x16"></Image>
+                    </dx:NavBarItem>
+                </Items>
+            </dx:NavBarGroup>
+        </Groups>
+        <%--<ClientSideEvents ItemClick="onFiltersNavBarItemClick" />--%>
+    </dx:ASPxNavBar>
+
+</asp:Content>
+<%--<asp:Content ID="Content3" ContentPlaceHolderID="RightPanelContent" runat="server">
+</asp:Content>--%>
+<asp:Content ID="Content4" ContentPlaceHolderID="PageToolbar" runat="server">
+    <asp:ContentPlaceHolder ID="PageToolbar" runat="server" />
+</asp:Content>
+<asp:Content ID="Content5" ContentPlaceHolderID="PageContent" runat="server">
+    <div class="content">
+        <uc1:TimeoutControl ID="TimeoutControl1" runat="server" />
+<asp:ContentPlaceHolder ID="Content" runat="server" />
+</div>
+</asp:Content>

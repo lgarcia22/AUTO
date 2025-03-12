@@ -1,0 +1,211 @@
+﻿/*--------------------------------------------------------------------- 
+import Fonts -
+--------------------------------------------------------------------*/
+
+/*@import url('https://fonts.googleapis.com/css?family=Poppins:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i');
+@import url('https://fonts.googleapis.com/css?family=Roboto:300,400,500,700,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Sen:wght@400;700;800&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Raleway:400,500,600,700,800,900&display=swap');*/
+/*--------------------------------------------------------------------- 
+import Files 
+---------------------------------------------------------------------*/
+
+/*@import url(normalize.css);
+@import url(icomoon.css);
+@import url(font-awesome.min.css);
+@import url(nice-select.css);*/
+
+body {
+ 
+}
+
+.formLayout {
+    max-width: 1000px;
+    width: 100%; /* Ensures the form takes full width up to the max-width */
+    margin: auto;
+    background-color: white;
+    border: 2px solid #E1E1E1;
+    border-radius: 10px;
+    box-shadow: 0 0 3px 3px #E1E1E1;
+}
+
+
+.popup {
+    max-width: 1000px;
+    margin: auto 0px auto auto;
+    background-color: white;
+    border: 2px solid #E1E1E1;
+    border-radius: 10px !important;
+    box-shadow: 0 0 3px 3px #E1E1E1;
+}
+
+.headerpopup {
+    max-width: 1000px;
+    margin: auto 0px auto auto;
+    background-color: white;
+    border: 2px solid #E1E1E1;
+    border-radius: 10px !important;
+}
+
+.swal2-container {
+    z-index: 20000 !important; /* Asegúrate de que sea mayor que el z-index del popup */
+}
+
+.dx-popup {
+    z-index: 10000 !important; /* Ajusta esto según el valor adecuado para tu popup */
+}
+
+.btn {
+    -webkit-border-radius: 35px;
+    -moz-border-radius: 35px;
+    border-radius: 35px;
+    background: #0072C6;
+    background: -webkit-linear-gradient(to right, #cc5333, #1F497d);
+}
+
+.img-responsive {
+    max-width: 100%;
+    height: auto;
+}
+
+.auto-style2 {
+             text-align: center;
+             height: 23px;
+}  
+.auto-style3 {
+             height: 23px;
+         }
+
+
+.text-center {
+    text-align: center;
+}
+
+.mt-3 {
+    margin-top: 1rem;
+}
+
+.font-weight-bold {
+    font-weight: bold;
+}
+
+.fa-4x {
+    font-size: 4em;
+}
+
+.attention-text {
+    font-size: 1.5em;
+    font-weight: bold;
+}
+
+html, body {
+    height: 100%;
+    margin: 0;
+}
+
+/*.main-layout {*/
+    /*margin-top: 90px;*/
+    /* background: #1F497D;
+    background: -webkit-linear-gradient(to right, #cc5333, #1F497D);
+    background: linear-gradient(to right, #cc5333, #1F497D);*/
+    /*background-image: url('TSC/color1_logo.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;*/
+    /*background-image: url('TSC/color1_logo.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: auto;*/
+    /*min-height: 300px;*/
+    /*display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}*/
+
+.content {
+    flex: 1;
+}
+
+#progress-bar-fill {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    padding-right: 10px;
+    color: white;
+    font-weight: bold;
+}
+
+.popup2 {
+    width: 100% !important;
+    max-width: 400px;
+}
+
+.dx-justification {
+    width: 100%;
+    max-width: 100%;
+}
+
+@media (max-width: 1200px) {
+    .popup2 {
+        width: 80% !important;
+    }
+}
+
+/* For screens up to 992px (large tablets, small laptops) */
+@media (max-width: 992px) {
+    .popup2 {
+        width: 70% !important;
+    }
+}
+
+/* For screens up to 768px (tablets) */
+@media (max-width: 768px) {
+    .popup2 {
+        width: 60% !important;
+        min-height: 250px;
+    }
+
+    .dx-justification {
+        width: 90%;
+    }
+
+    .headerpopup {
+        font-size: 18px;
+    }
+}
+
+/* For screens up to 576px (small tablets, large phones) */
+@media (max-width: 576px) {
+    .popup2 {
+        width: 90% !important;
+        min-height: 200px;
+    }
+
+    .dx-justification {
+        width: 90%;
+    }
+
+    .headerpopup {
+        font-size: 16px;
+    }
+}
+
+/* For screens up to 480px (phones) */
+@media (max-width: 480px) {
+    .popup2 {
+        width: 90% !important;
+        max-width: none;
+        min-height: 150px;
+    }
+
+    .dx-justification {
+        width: 90%;
+    }
+
+    .headerpopup {
+        font-size: 14px;
+    }
+}
+
